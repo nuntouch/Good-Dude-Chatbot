@@ -1,0 +1,26 @@
+# คำ/วลีต้องห้าม (substring ไม่สนตัวพิมพ์ใหญ่เล็ก) หนึ่งบรรทัดต่อหนึ่งคำ
+# ใช้ดักการพยายามแทรกคำสั่ง (prompt injection) แบบตรงไปตรงมา
+# Llama Guard ไม่ได้ออกแบบมาตรวจ prompt injection จึงต้องมีชั้นนี้เสริม
+
+# อังกฤษ
+ignore previous
+ignore all previous
+ignore the above
+disregard previous
+system prompt
+developer mode
+jailbreak
+dan mode
+reveal your instructions
+you are now
+
+# ไทย
+ลืมคำสั่ง
+เพิกเฉยคำสั่ง
+ไม่ต้องสนใจคำสั่ง
+ข้ามกฎ
+ซิสเต็มพรอมต์
+ซิสเต็ม พรอมต์
+คำสั่งระบบ
+โหมดนักพัฒนา
+เปิดเผยคำสั่ง

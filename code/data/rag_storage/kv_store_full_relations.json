@@ -1,0 +1,314 @@
+{
+  "doc-0a357a5fc21e6f290f89ccb625d69281": {
+    "relation_pairs": [
+      [
+        "Good Dude Pet Shop",
+        "PawNature"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "Whisker Joy"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "ทรายแมว"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "อาหารเปียก"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "อาหารเม็ด"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "อุปกรณ์สัตว์เลี้ยง"
+      ],
+      [
+        "Mini Bite",
+        "PawNature"
+      ],
+      [
+        "PawNature",
+        "ลูกสัตว์"
+      ],
+      [
+        "PawNature",
+        "สูตรเนื้อวัว"
+      ],
+      [
+        "PawNature",
+        "สูตรแซลมอน"
+      ],
+      [
+        "PawNature",
+        "สูตรไก่"
+      ],
+      [
+        "Whisker Joy",
+        "ลูกสัตว์"
+      ],
+      [
+        "Whisker Joy",
+        "สูตรทูน่า"
+      ],
+      [
+        "Whisker Joy",
+        "สูตรแซลมอนแมว"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1791610534,
+    "update_time": 1791610534,
+    "_id": "doc-0a357a5fc21e6f290f89ccb625d69281"
+  },
+  "doc-d943893e8366bb7cba89b35d96424824": {
+    "relation_pairs": [
+      [
+        "Good Dude Pet Shop",
+        "กรุงเทพมหานคร"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "การจัดส่งสินค้า"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "การชำระเงิน"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "การสั่งซื้อ"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "ขนม"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "ของเล่น"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "ทรายแมว"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "พนักงาน"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "รัศมีการจัดส่ง"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "สุนัข"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "อาหารเปียก"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "อาหารเม็ด"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "อุปกรณ์"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "แมว"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1791610536,
+    "update_time": 1791610536,
+    "_id": "doc-d943893e8366bb7cba89b35d96424824"
+  },
+  "doc-ed3d016893eea051d2e7571ecfae7e2b": {
+    "relation_pairs": [
+      [
+        "Good Dude Pet Shop",
+        "ขนมขัดฟันสุนัข Dental Stick"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "ทรายแมวเต้าหู้ ธรรมชาติ"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "อาหารกระป๋องสุนัข PawNature เนื้อวัว"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "อาหารเปียกสุนัขแบบซอง PawNature สูตรไก่ตุ๋น"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "อาหารเปียกแมวแบบซอง Whisker Joy สูตรปลาทะเล"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "อาหารเม็ดลูกสุนัข PawNature Puppy สูตรแซลมอน"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "อาหารเม็ดลูกแมว Whisker Joy Kitten สูตรไก่"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "อาหารเม็ดสุนัขพันธุ์เล็ก Mini Bite สูตรเนื้อแกะ"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "อาหารเม็ดสุนัขโต PawNature สูตรเนื้อวัว"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "อาหารเม็ดสุนัขโต PawNature สูตรไก่และข้าว"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "อาหารเม็ดสุนัขโต PawNature สูตรไก่และข้าว ขนาด 10 กก."
+      ],
+      [
+        "Good Dude Pet Shop",
+        "อาหารเม็ดแมวโต Whisker Joy สูตรปลาทูน่า"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "doc-ed3d016893eea051d2e7571ecfae7e2b"
+  },
+  "doc-eea9a72a9ef57d8960588bd442a9c2e8": {
+    "relation_pairs": [
+      [
+        "Good Dude Club",
+        "Good Dude Pet Shop"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "LINE"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "PawNature Puppy"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "Whisker Joy Kitten"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "การจัดส่งสินค้า"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "ทรายเบนทอไนต์"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "อาหารเปียกแมว"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "อาหารและขนม"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "เงินสด"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "โอนพร้อมเพย์"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1791610549,
+    "update_time": 1791610549,
+    "_id": "doc-eea9a72a9ef57d8960588bd442a9c2e8"
+  },
+  "doc-2c7013c02a298465570d3ccc3888971d": {
+    "relation_pairs": [
+      [
+        "Good Dude Pet Shop",
+        "กรงเดินทาง"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "ของเล่น"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "ชามอาหาร"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "ทรายแมว"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "ที่นอน"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "นโยบายการคืนสินค้าและคืนเงิน"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "น้ำพุ"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "พนักงาน"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "ลูกค้า"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "สมาชิกและโปรโมชัน (Good Dude Club)"
+      ],
+      [
+        "Good Dude Pet Shop",
+        "แชมพู"
+      ],
+      [
+        "ฉลาก ป้ายราคา หรือรูปสินค้า",
+        "ร้าน"
+      ],
+      [
+        "ช่องทางการติดต่อ (LINE)",
+        "ลูกค้า"
+      ],
+      [
+        "พนักงาน",
+        "สินค้ามีตำหนิ"
+      ],
+      [
+        "พนักงาน",
+        "ใบเสร็จ"
+      ],
+      [
+        "ร้าน",
+        "สลิปโอนเงิน"
+      ],
+      [
+        "ร้าน",
+        "หัวข้อสินค้ามีตำหนิ"
+      ],
+      [
+        "ลูกค้า",
+        "สินค้ามีตำหนิ"
+      ]
+    ],
+    "count": 18,
+    "create_time": 1791610549,
+    "update_time": 1791610549,
+    "_id": "doc-2c7013c02a298465570d3ccc3888971d"
+  }
+}

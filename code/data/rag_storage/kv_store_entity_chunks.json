@@ -1,0 +1,838 @@
+{
+  "Good Dude Pet Shop": {
+    "chunk_ids": [
+      "doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000",
+      "doc-d943893e8366bb7cba89b35d96424824-chunk-000",
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000",
+      "doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000",
+      "doc-2c7013c02a298465570d3ccc3888971d-chunk-000"
+    ],
+    "count": 5,
+    "update_time": 1791610549,
+    "_id": "Good Dude Pet Shop"
+  },
+  "PawNature": {
+    "chunk_ids": [
+      "doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610534,
+    "update_time": 1791610534,
+    "_id": "PawNature"
+  },
+  "Whisker Joy": {
+    "chunk_ids": [
+      "doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610534,
+    "update_time": 1791610534,
+    "_id": "Whisker Joy"
+  },
+  "ลูกสัตว์": {
+    "chunk_ids": [
+      "doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610534,
+    "update_time": 1791610534,
+    "_id": "ลูกสัตว์"
+  },
+  "อาหารสุนัข": {
+    "chunk_ids": [
+      "doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610534,
+    "update_time": 1791610534,
+    "_id": "อาหารสุนัข"
+  },
+  "อาหารแมว": {
+    "chunk_ids": [
+      "doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610534,
+    "update_time": 1791610534,
+    "_id": "อาหารแมว"
+  },
+  "ทรายแมว": {
+    "chunk_ids": [
+      "doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000",
+      "doc-d943893e8366bb7cba89b35d96424824-chunk-000",
+      "doc-2c7013c02a298465570d3ccc3888971d-chunk-000"
+    ],
+    "count": 3,
+    "update_time": 1791610551,
+    "_id": "ทรายแมว"
+  },
+  "อุปกรณ์สัตว์เลี้ยง": {
+    "chunk_ids": [
+      "doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610534,
+    "update_time": 1791610534,
+    "_id": "อุปกรณ์สัตว์เลี้ยง"
+  },
+  "อาหารเม็ด": {
+    "chunk_ids": [
+      "doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000",
+      "doc-d943893e8366bb7cba89b35d96424824-chunk-000",
+      "doc-2c7013c02a298465570d3ccc3888971d-chunk-000"
+    ],
+    "count": 3,
+    "update_time": 1791610549,
+    "_id": "อาหารเม็ด"
+  },
+  "อาหารเปียก": {
+    "chunk_ids": [
+      "doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000",
+      "doc-d943893e8366bb7cba89b35d96424824-chunk-000"
+    ],
+    "count": 2,
+    "update_time": 1791610536,
+    "_id": "อาหารเปียก"
+  },
+  "สูตรแซลมอน": {
+    "chunk_ids": [
+      "doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610534,
+    "update_time": 1791610534,
+    "_id": "สูตรแซลมอน"
+  },
+  "สูตรไก่": {
+    "chunk_ids": [
+      "doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610534,
+    "update_time": 1791610534,
+    "_id": "สูตรไก่"
+  },
+  "สูตรเนื้อวัว": {
+    "chunk_ids": [
+      "doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610534,
+    "update_time": 1791610534,
+    "_id": "สูตรเนื้อวัว"
+  },
+  "สูตรทูน่า": {
+    "chunk_ids": [
+      "doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610534,
+    "update_time": 1791610534,
+    "_id": "สูตรทูน่า"
+  },
+  "สูตรแซลมอนแมว": {
+    "chunk_ids": [
+      "doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610534,
+    "update_time": 1791610534,
+    "_id": "สูตรแซลมอนแมว"
+  },
+  "Mini Bite": {
+    "chunk_ids": [
+      "doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610534,
+    "update_time": 1791610534,
+    "_id": "Mini Bite"
+  },
+  "สุนัข": {
+    "chunk_ids": [
+      "doc-d943893e8366bb7cba89b35d96424824-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610536,
+    "update_time": 1791610536,
+    "_id": "สุนัข"
+  },
+  "แมว": {
+    "chunk_ids": [
+      "doc-d943893e8366bb7cba89b35d96424824-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610536,
+    "update_time": 1791610536,
+    "_id": "แมว"
+  },
+  "กรุงเทพมหานคร": {
+    "chunk_ids": [
+      "doc-d943893e8366bb7cba89b35d96424824-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610536,
+    "update_time": 1791610536,
+    "_id": "กรุงเทพมหานคร"
+  },
+  "โทรศัพท์": {
+    "chunk_ids": [
+      "doc-d943893e8366bb7cba89b35d96424824-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610536,
+    "update_time": 1791610536,
+    "_id": "โทรศัพท์"
+  },
+  "LINE Official": {
+    "chunk_ids": [
+      "doc-d943893e8366bb7cba89b35d96424824-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610536,
+    "update_time": 1791610536,
+    "_id": "LINE Official"
+  },
+  "การสั่งซื้อ": {
+    "chunk_ids": [
+      "doc-d943893e8366bb7cba89b35d96424824-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610536,
+    "update_time": 1791610536,
+    "_id": "การสั่งซื้อ"
+  },
+  "การชำระเงิน": {
+    "chunk_ids": [
+      "doc-d943893e8366bb7cba89b35d96424824-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610536,
+    "update_time": 1791610536,
+    "_id": "การชำระเงิน"
+  },
+  "การจัดส่งสินค้า": {
+    "chunk_ids": [
+      "doc-d943893e8366bb7cba89b35d96424824-chunk-000",
+      "doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000"
+    ],
+    "count": 2,
+    "update_time": 1791610549,
+    "_id": "การจัดส่งสินค้า"
+  },
+  "พนักงาน": {
+    "chunk_ids": [
+      "doc-d943893e8366bb7cba89b35d96424824-chunk-000",
+      "doc-2c7013c02a298465570d3ccc3888971d-chunk-000",
+      "doc-2c7013c02a298465570d3ccc3888971d-chunk-001"
+    ],
+    "count": 3,
+    "update_time": 1791610549,
+    "_id": "พนักงาน"
+  },
+  "ขนม": {
+    "chunk_ids": [
+      "doc-d943893e8366bb7cba89b35d96424824-chunk-000",
+      "doc-2c7013c02a298465570d3ccc3888971d-chunk-000"
+    ],
+    "count": 2,
+    "update_time": 1791610549,
+    "_id": "ขนม"
+  },
+  "อุปกรณ์": {
+    "chunk_ids": [
+      "doc-d943893e8366bb7cba89b35d96424824-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610536,
+    "update_time": 1791610536,
+    "_id": "อุปกรณ์"
+  },
+  "ของเล่น": {
+    "chunk_ids": [
+      "doc-d943893e8366bb7cba89b35d96424824-chunk-000",
+      "doc-2c7013c02a298465570d3ccc3888971d-chunk-000"
+    ],
+    "count": 2,
+    "update_time": 1791610551,
+    "_id": "ของเล่น"
+  },
+  "รัศมีการจัดส่ง": {
+    "chunk_ids": [
+      "doc-d943893e8366bb7cba89b35d96424824-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610536,
+    "update_time": 1791610536,
+    "_id": "รัศมีการจัดส่ง"
+  },
+  "อาหารเม็ดสุนัขโต PawNature สูตรไก่และข้าว": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "อาหารเม็ดสุนัขโต PawNature สูตรไก่และข้าว"
+  },
+  "อาหารเม็ดสุนัขโต PawNature สูตรไก่และข้าว ขนาด 10 กก.": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "อาหารเม็ดสุนัขโต PawNature สูตรไก่และข้าว ขนาด 10 กก."
+  },
+  "อาหารเม็ดลูกสุนัข PawNature Puppy สูตรแซลมอน": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "อาหารเม็ดลูกสุนัข PawNature Puppy สูตรแซลมอน"
+  },
+  "อาหารเม็ดสุนัขพันธุ์เล็ก Mini Bite สูตรเนื้อแกะ": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "อาหารเม็ดสุนัขพันธุ์เล็ก Mini Bite สูตรเนื้อแกะ"
+  },
+  "อาหารกระป๋องสุนัข PawNature เนื้อวัว": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "อาหารกระป๋องสุนัข PawNature เนื้อวัว"
+  },
+  "อาหารเม็ดสุนัขโต PawNature สูตรเนื้อวัว": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "อาหารเม็ดสุนัขโต PawNature สูตรเนื้อวัว"
+  },
+  "อาหารเปียกสุนัขแบบซอง PawNature สูตรไก่ตุ๋น": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "อาหารเปียกสุนัขแบบซอง PawNature สูตรไก่ตุ๋น"
+  },
+  "อาหารเม็ดแมวโต Whisker Joy สูตรปลาทูน่า": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "อาหารเม็ดแมวโต Whisker Joy สูตรปลาทูน่า"
+  },
+  "อาหารเม็ดลูกแมว Whisker Joy Kitten สูตรไก่": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "อาหารเม็ดลูกแมว Whisker Joy Kitten สูตรไก่"
+  },
+  "อาหารเปียกแมวแบบซอง Whisker Joy สูตรปลาทะเล": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "อาหารเปียกแมวแบบซอง Whisker Joy สูตรปลาทะเล"
+  },
+  "ขนมขัดฟันสุนัข Dental Stick": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "ขนมขัดฟันสุนัข Dental Stick"
+  },
+  "ทรายแมวเต้าหู้ ธรรมชาติ": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "ทรายแมวเต้าหู้ ธรรมชาติ"
+  },
+  "อาหารเม็ดแมวโต Whisker Joy สูตรแซลมอน": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "อาหารเม็ดแมวโต Whisker Joy สูตรแซลมอน"
+  },
+  "อาหารกระป๋องแมว Whisker Joy ปลาซาร์ดีน": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "อาหารกระป๋องแมว Whisker Joy ปลาซาร์ดีน"
+  },
+  "ขนมไก่อบแห้งสำหรับสุนัข": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "ขนมไก่อบแห้งสำหรับสุนัข"
+  },
+  "ขนมแมวเลีย Creamy Treat รสทูน่า": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "ขนมแมวเลีย Creamy Treat รสทูน่า"
+  },
+  "ขนมแมวปลาแห้งกรอบ": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "ขนมแมวปลาแห้งกรอบ"
+  },
+  "ทรายแมวเบนท": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "ทรายแมวเบนท"
+  },
+  "ทรายแมวเต้าหู้ ธรรมชาติ (ทิ้งชักโครกไม่ได้)": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000",
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001"
+    ],
+    "count": 2,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "ทรายแมวเต้าหู้ ธรรมชาติ (ทิ้งชักโครกไม่ได้)"
+  },
+  "ทรายแมวเบนทอไนต์ จับตัวเป็นก้อน": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "ทรายแมวเบนทอไนต์ จับตัวเป็นก้อน"
+  },
+  "แชมพูอาบน้ำสุนัขและแมว สูตรอ่อนโยน": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "แชมพูอาบน้ำสุนัขและแมว สูตรอ่อนโยน"
+  },
+  "ทรายแมวคาร์บอนดับกลิ่น จับตัวเป็นก้อน": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "ทรายแมวคาร์บอนดับกลิ่น จับตัวเป็นก้อน"
+  },
+  "กระบะทรายแมว มีฝาครอบ": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "กระบะทรายแมว มีฝาครอบ"
+  },
+  "ถุงเก็บมูลสุนัข": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "ถุงเก็บมูลสุนัข"
+  },
+  "ของเล่นยางกัดสุนัข รูปกระดูก": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "ของเล่นยางกัดสุนัข รูปกระดูก"
+  },
+  "ของเล่นไม้ตกแมว มีขนนก": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "ของเล่นไม้ตกแมว มีขนนก"
+  },
+  "ที่นอนสุนัข/แมว ทรงกลม ไซซ์ M": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "ที่นอนสุนัข/แมว ทรงกลม ไซซ์ M"
+  },
+  "ที่นอนสุนัข/แมว ทรงกลม ไซซ์ L": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "ที่นอนสุนัข/แมว ทรงกลม ไซซ์ L"
+  },
+  "ปลอกคอพร้อมสายจูง ไซซ์ S": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "ปลอกคอพร้อมสายจูง ไซซ์ S"
+  },
+  "ปลอกคอพร้อมสายจูง ไซซ์ M": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "ปลอกคอพร้อมสายจูง ไซซ์ M"
+  },
+  "ปลอกคอพร้อมสายจูง ไซซ์ L": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "ปลอกคอพร้อมสายจูง ไซซ์ L"
+  },
+  "ชามอาหารสแตนเลส ฐานกันลื่น": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "ชามอาหารสแตนเลส ฐานกันลื่น"
+  },
+  "กรงเดินทางพลาสติก ไซซ์ M": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "กรงเดินทางพลาสติก ไซซ์ M"
+  },
+  "ที่ลับเล็บแมว กระดาษลูกฟูก": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "ที่ลับเล็บแมว กระดาษลูกฟูก"
+  },
+  "ลูกบอลยางมีเสียงสำหรับสุนัข": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "ลูกบอลยางมีเสียงสำหรับสุนัข"
+  },
+  "อุโมงค์แมวพับได้": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "อุโมงค์แมวพับได้"
+  },
+  "น้ำพุอัตโนมัติสำหรับสุนัขและแมว": {
+    "chunk_ids": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791610542,
+    "update_time": 1791610542,
+    "_id": "น้ำพุอัตโนมัติสำหรับสุนัขและแมว"
+  },
+  "Good Dude Club": {
+    "chunk_ids": [
+      "doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610549,
+    "update_time": 1791610549,
+    "_id": "Good Dude Club"
+  },
+  "PawNature Puppy": {
+    "chunk_ids": [
+      "doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610549,
+    "update_time": 1791610549,
+    "_id": "PawNature Puppy"
+  },
+  "Whisker Joy Kitten": {
+    "chunk_ids": [
+      "doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610549,
+    "update_time": 1791610549,
+    "_id": "Whisker Joy Kitten"
+  },
+  "ทรายเบนทอไนต์": {
+    "chunk_ids": [
+      "doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610549,
+    "update_time": 1791610549,
+    "_id": "ทรายเบนทอไนต์"
+  },
+  "อาหารเปียกแมว": {
+    "chunk_ids": [
+      "doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610549,
+    "update_time": 1791610549,
+    "_id": "อาหารเปียกแมว"
+  },
+  "อาหารและขนม": {
+    "chunk_ids": [
+      "doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610549,
+    "update_time": 1791610549,
+    "_id": "อาหารและขนม"
+  },
+  "เงินสด": {
+    "chunk_ids": [
+      "doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610549,
+    "update_time": 1791610549,
+    "_id": "เงินสด"
+  },
+  "โอนพร้อมเพย์": {
+    "chunk_ids": [
+      "doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610549,
+    "update_time": 1791610549,
+    "_id": "โอนพร้อมเพย์"
+  },
+  "LINE": {
+    "chunk_ids": [
+      "doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610549,
+    "update_time": 1791610549,
+    "_id": "LINE"
+  },
+  "นโยบายการคืนสินค้าและคืนเงิน": {
+    "chunk_ids": [
+      "doc-2c7013c02a298465570d3ccc3888971d-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610549,
+    "update_time": 1791610549,
+    "_id": "นโยบายการคืนสินค้าและคืนเงิน"
+  },
+  "ลูกค้า": {
+    "chunk_ids": [
+      "doc-2c7013c02a298465570d3ccc3888971d-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610549,
+    "update_time": 1791610549,
+    "_id": "ลูกค้า"
+  },
+  "สินค้ามีตำหนิ": {
+    "chunk_ids": [
+      "doc-2c7013c02a298465570d3ccc3888971d-chunk-000",
+      "doc-2c7013c02a298465570d3ccc3888971d-chunk-001"
+    ],
+    "count": 2,
+    "create_time": 1791610549,
+    "update_time": 1791610549,
+    "_id": "สินค้ามีตำหนิ"
+  },
+  "สมาชิกและโปรโมชัน (Good Dude Club)": {
+    "chunk_ids": [
+      "doc-2c7013c02a298465570d3ccc3888971d-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610549,
+    "update_time": 1791610549,
+    "_id": "สมาชิกและโปรโมชัน (Good Dude Club)"
+  },
+  "ช่องทางการติดต่อ (LINE)": {
+    "chunk_ids": [
+      "doc-2c7013c02a298465570d3ccc3888971d-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610551,
+    "update_time": 1791610551,
+    "_id": "ช่องทางการติดต่อ (LINE)"
+  },
+  "รูปภาพที่ลูกค้าส่งให้ร้าน": {
+    "chunk_ids": [
+      "doc-2c7013c02a298465570d3ccc3888971d-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610551,
+    "update_time": 1791610551,
+    "_id": "รูปภาพที่ลูกค้าส่งให้ร้าน"
+  },
+  "แชมพู": {
+    "chunk_ids": [
+      "doc-2c7013c02a298465570d3ccc3888971d-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610551,
+    "update_time": 1791610551,
+    "_id": "แชมพู"
+  },
+  "ที่นอน": {
+    "chunk_ids": [
+      "doc-2c7013c02a298465570d3ccc3888971d-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610551,
+    "update_time": 1791610551,
+    "_id": "ที่นอน"
+  },
+  "กรงเดินทาง": {
+    "chunk_ids": [
+      "doc-2c7013c02a298465570d3ccc3888971d-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610551,
+    "update_time": 1791610551,
+    "_id": "กรงเดินทาง"
+  },
+  "น้ำพุ": {
+    "chunk_ids": [
+      "doc-2c7013c02a298465570d3ccc3888971d-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610551,
+    "update_time": 1791610551,
+    "_id": "น้ำพุ"
+  },
+  "ชามอาหาร": {
+    "chunk_ids": [
+      "doc-2c7013c02a298465570d3ccc3888971d-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791610551,
+    "update_time": 1791610551,
+    "_id": "ชามอาหาร"
+  },
+  "หัวข้อสินค้ามีตำหนิ": {
+    "chunk_ids": [
+      "doc-2c7013c02a298465570d3ccc3888971d-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791610551,
+    "update_time": 1791610551,
+    "_id": "หัวข้อสินค้ามีตำหนิ"
+  },
+  "ร้าน": {
+    "chunk_ids": [
+      "doc-2c7013c02a298465570d3ccc3888971d-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791610551,
+    "update_time": 1791610551,
+    "_id": "ร้าน"
+  },
+  "สลิปโอนเงิน": {
+    "chunk_ids": [
+      "doc-2c7013c02a298465570d3ccc3888971d-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791610551,
+    "update_time": 1791610551,
+    "_id": "สลิปโอนเงิน"
+  },
+  "ฉลาก ป้ายราคา หรือรูปสินค้า": {
+    "chunk_ids": [
+      "doc-2c7013c02a298465570d3ccc3888971d-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791610551,
+    "update_time": 1791610551,
+    "_id": "ฉลาก ป้ายราคา หรือรูปสินค้า"
+  },
+  "ใบเสร็จ": {
+    "chunk_ids": [
+      "doc-2c7013c02a298465570d3ccc3888971d-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791610551,
+    "update_time": 1791610551,
+    "_id": "ใบเสร็จ"
+  },
+  "ภาพไม่ชัด": {
+    "chunk_ids": [
+      "doc-2c7013c02a298465570d3ccc3888971d-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791610551,
+    "update_time": 1791610551,
+    "_id": "ภาพไม่ชัด"
+  }
+}

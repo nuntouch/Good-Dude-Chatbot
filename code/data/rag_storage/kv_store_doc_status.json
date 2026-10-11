@@ -1,0 +1,144 @@
+{
+  "doc-d943893e8366bb7cba89b35d96424824": {
+    "status": "processed",
+    "content_summary": "# Good Dude Pet Shop — ข้อมูลร้าน\n\n> ข้อมูลจำลองเพื่อการเรียนการสอน ไม่ใช่ร้านจริง\n\n## ภาพรวมร้าน\n\nGood Dude Pet Shop (อ่านว่า กู๊ด ดู๊ด เพ็ท ช็อป) เป็นร้านขายปลีก **อาหารและของใช้สำหรับสุนัขและแมว** ขนาดเล็ก เปิดมาแล้ว 4 ปี มีพนักงาน 4 คน (เจ้าของ 1...",
+    "content_length": 1566,
+    "created_at": "2026-10-10T05:35:20.411679+00:00",
+    "updated_at": "2026-10-10T05:35:39.075987+00:00",
+    "file_path": "01_shop_profile.md",
+    "track_id": "insert_20261010_053520_a441d4ad",
+    "content_hash": "a5c161e567e5d90e88cecdcafa49c9ee",
+    "metadata": {
+      "process_options": "F",
+      "parse_start_time": 1791610520,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1791610520,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1791610520,
+      "process_end_time": 1791610539,
+      "chunk_method": "fixed_token",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-d943893e8366bb7cba89b35d96424824-chunk-000"
+    ]
+  },
+  "doc-ed3d016893eea051d2e7571ecfae7e2b": {
+    "status": "processed",
+    "content_summary": "# Good Dude Pet Shop — รายการสินค้าและราคา\n\n> ข้อมูลจำลองเพื่อการเรียนการสอน ราคาเป็นบาท (รวมภาษีมูลค่าเพิ่มแล้ว)\n> **ไม่มีข้อมูลสต็อกแบบเรียลไทม์** หากลูกค้าถามว่ามีของหรือไม่ ให้แนะนำติดต่อร้านทางโทรศัพท์หรือ LINE เพื่อยืนยันก่อนเดินทางมา\n> **ซองทด...",
+    "content_length": 3751,
+    "created_at": "2026-10-10T05:35:20.417260+00:00",
+    "updated_at": "2026-10-10T05:35:46.178476+00:00",
+    "file_path": "02_products.md",
+    "track_id": "insert_20261010_053520_796f9c34",
+    "content_hash": "eb449ddf6577e2b2749cea0ce64cf6ab",
+    "metadata": {
+      "process_options": "F",
+      "parse_start_time": 1791610520,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1791610520,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1791610520,
+      "process_end_time": 1791610546,
+      "chunk_method": "fixed_token",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 2,
+    "chunks_list": [
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000",
+      "doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001"
+    ]
+  },
+  "doc-0a357a5fc21e6f290f89ccb625d69281": {
+    "status": "processed",
+    "content_summary": "# Good Dude Pet Shop — คู่มือเลือกสินค้า\n\n> ข้อมูลจำลองเพื่อการเรียนการสอน เป็นแนวทางเลือกสินค้าของร้านเท่านั้น ราคาและรหัสดูที่รายการสินค้า\n\n## 1. เลือกอาหารตามช่วงอายุ\n\n| ช่วงอายุ | สุนัข | แมว |\n|---|---|---|\n| ลูกสัตว์ 2–12 เดือน | PawNature Pupp...",
+    "content_length": 2059,
+    "created_at": "2026-10-10T05:35:20.418818+00:00",
+    "updated_at": "2026-10-10T05:35:36.789387+00:00",
+    "file_path": "03_product_guide.md",
+    "track_id": "insert_20261010_053520_f5f1d381",
+    "content_hash": "191dc0875a4ce3fd1b1feb58bd9b7af8",
+    "metadata": {
+      "process_options": "F",
+      "parse_start_time": 1791610520,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1791610520,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1791610520,
+      "process_end_time": 1791610536,
+      "chunk_method": "fixed_token",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000"
+    ]
+  },
+  "doc-2c7013c02a298465570d3ccc3888971d": {
+    "status": "processed",
+    "content_summary": "# Good Dude Pet Shop — นโยบายของร้าน\n\n> ข้อมูลจำลองเพื่อการเรียนการสอน\n\n## 1. นโยบายการคืนสินค้าและคืนเงิน\n\n- แจ้งขอคืนภายใน **7 วัน** นับจากวันที่ซื้อ และต้องมี **ใบเสร็จหรือหลักฐานการซื้อ** (ใบเสร็จกระดาษหรือรูปใบเสร็จ)\n- คืนเงินช่องทางเดิม (เงินสด...",
+    "content_length": 3310,
+    "created_at": "2026-10-10T05:35:20.420971+00:00",
+    "updated_at": "2026-10-10T05:35:53.741494+00:00",
+    "file_path": "04_policies.md",
+    "track_id": "insert_20261010_053520_ca507b40",
+    "content_hash": "337f4c961a07fc8d69b6b5acf950f9ab",
+    "metadata": {
+      "process_options": "F",
+      "parse_start_time": 1791610520,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1791610520,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1791610536,
+      "process_end_time": 1791610553,
+      "chunk_method": "fixed_token",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 2,
+    "chunks_list": [
+      "doc-2c7013c02a298465570d3ccc3888971d-chunk-000",
+      "doc-2c7013c02a298465570d3ccc3888971d-chunk-001"
+    ]
+  },
+  "doc-eea9a72a9ef57d8960588bd442a9c2e8": {
+    "status": "processed",
+    "content_summary": "# Good Dude Pet Shop — คำถามที่พบบ่อย (FAQ 10 เรื่อง)\n\n> ข้อมูลจำลองเพื่อการเรียนการสอน ตัวเลขตรงกับเอกสารสินค้า คู่มือ และนโยบายของร้าน\n\n## 1. ร้านเปิดกี่โมง\n\nจันทร์–เสาร์ 09:00–20:00 น. อาทิตย์ 10:00–18:00 น. หยุดวันสงกรานต์ (13–15 เมษายน) และ 31 ธ...",
+    "content_length": 1803,
+    "created_at": "2026-10-10T05:35:20.422769+00:00",
+    "updated_at": "2026-10-10T05:35:51.335577+00:00",
+    "file_path": "05_faq.md",
+    "track_id": "insert_20261010_053520_c65b1d8a",
+    "content_hash": "f8763145291691638ca1056e59844216",
+    "metadata": {
+      "process_options": "F",
+      "parse_start_time": 1791610520,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1791610520,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1791610539,
+      "process_end_time": 1791610551,
+      "chunk_method": "fixed_token",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000"
+    ]
+  }
+}

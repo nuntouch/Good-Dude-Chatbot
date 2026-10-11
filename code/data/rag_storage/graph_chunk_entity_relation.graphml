@@ -1,0 +1,1393 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="truncate" attr.type="string"/>
+<key id="d12" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d11" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d10" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d9" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d8" for="edge" attr.name="description" attr.type="string"/>
+<key id="d7" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d6" for="node" attr.name="truncate" attr.type="string"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Good Dude Pet Shop">
+  <data key="d0">Good Dude Pet Shop</data>
+  <data key="d1">organization</data>
+  <data key="d2">ร้านค้าสัตว์เลี้ยงที่ให้ข้อมูลจำลองเพื่อการเรียนการสอนและแนวทางเลือกสินค้าสำหรับสัตว์เลี้ยง&lt;SEP&gt;ร้านขายปลีกอาหารและของใช้สำหรับสุนัขและแมว ขนาดเล็ก เปิดมานาน 4 ปี มีพนักงาน 4 คน จำหน่ายอาหารเม็ด อาหารเปียก ขนม ทรายแมว อุปกรณ์ และของเล่นสำหรับสุนัขและแมวเท่านั้น&lt;SEP&gt;ร้านค้าสัตว์เลี้ยงที่จำหน่ายอาหารและของใช้สำหรับสัตว์เลี้ยง มีสินค้าหลายหมวดหมู่ เช่น อาหารสุนัข อาหารแมว ขนมสัตว์เลี้ยง และอุปกรณ์สำหรับการดูแลสัตว์เลี้ยง&lt;SEP&gt;ร้านขายสัตว์เลี้ยงที่มีข้อมูลเกี่ยวกับการจำหน่ายสินค้าและบริการต่าง ๆ รวมถึงคำถามที่พบบ่อยเกี่ยวกับร้าน&lt;SEP&gt;ร้านขายสัตว์เลี้ยงที่เสนอการคืนสินค้าและนโยบายการคืนเงิน โดยมีรายละเอียดการคืนสินค้าและเงื่อนไขการสั่งซื้อที่ชัดเจน</data>
+  <data key="d3">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000&lt;SEP&gt;doc-d943893e8366bb7cba89b35d96424824-chunk-000&lt;SEP&gt;doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000&lt;SEP&gt;doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000&lt;SEP&gt;doc-2c7013c02a298465570d3ccc3888971d-chunk-000</data>
+  <data key="d4">03_product_guide.md&lt;SEP&gt;01_shop_profile.md&lt;SEP&gt;02_products.md&lt;SEP&gt;05_faq.md&lt;SEP&gt;04_policies.md</data>
+  <data key="d5">1791610549</data>
+  <data key="d6"></data>
+</node>
+<node id="PawNature">
+  <data key="d0">PawNature</data>
+  <data key="d1">organization</data>
+  <data key="d2">แบรนด์ผลิตภัณฑ์อาหารสัตว์เลี้ยงที่มีสูตรต่างๆ สำหรับสุนัข</data>
+  <data key="d3">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000</data>
+  <data key="d4">03_product_guide.md</data>
+  <data key="d5">1791610534</data>
+  <data key="d6"></data>
+</node>
+<node id="Whisker Joy">
+  <data key="d0">Whisker Joy</data>
+  <data key="d1">organization</data>
+  <data key="d2">แบรนด์ผลิตภัณฑ์อาหารสัตว์เลี้ยงที่มีสูตรต่างๆ สำหรับแมว</data>
+  <data key="d3">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000</data>
+  <data key="d4">03_product_guide.md</data>
+  <data key="d5">1791610534</data>
+  <data key="d6"></data>
+</node>
+<node id="ลูกสัตว์">
+  <data key="d0">ลูกสัตว์</data>
+  <data key="d1">concept</data>
+  <data key="d2">กลุ่มสัตว์เลี้ยงอายุต่ำกว่า 1 ปี ที่ได้รับการแนะนำให้เลือกอาหารตามช่วงอายุ</data>
+  <data key="d3">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000</data>
+  <data key="d4">03_product_guide.md</data>
+  <data key="d5">1791610534</data>
+  <data key="d6"></data>
+</node>
+<node id="อาหารสุนัข">
+  <data key="d0">อาหารสุนัข</data>
+  <data key="d1">concept</data>
+  <data key="d2">ผลิตภัณฑ์ที่ใช้เลี้ยงสุนัขซึ่งมีหลายสูตรให้เลือก</data>
+  <data key="d3">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000</data>
+  <data key="d4">03_product_guide.md</data>
+  <data key="d5">1791610534</data>
+  <data key="d6"></data>
+</node>
+<node id="อาหารแมว">
+  <data key="d0">อาหารแมว</data>
+  <data key="d1">concept</data>
+  <data key="d2">ผลิตภัณฑ์ที่ใช้เลี้ยงแมวซึ่งมีหลายสูตรให้เลือก</data>
+  <data key="d3">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000</data>
+  <data key="d4">03_product_guide.md</data>
+  <data key="d5">1791610534</data>
+  <data key="d6"></data>
+</node>
+<node id="ทรายแมว">
+  <data key="d0">ทรายแมว</data>
+  <data key="d1">content</data>
+  <data key="d2">ผลิตภัณฑ์ที่ทำจากวัสดุชนิดต่างๆ สำหรับใช้ในห้องน้ำของแมว&lt;SEP&gt;ประเภทของสินค้าที่จำหน่ายในร้าน Good Dude Pet Shop สำหรับแมว&lt;SEP&gt;ผลิตภัณฑ์ใช้สำหรับสัตว์เลี้ยง โดยมีเงื่อนไขการคืนเงินที่ระบุในนโยบาย</data>
+  <data key="d3">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000&lt;SEP&gt;doc-d943893e8366bb7cba89b35d96424824-chunk-000&lt;SEP&gt;doc-2c7013c02a298465570d3ccc3888971d-chunk-000</data>
+  <data key="d4">03_product_guide.md&lt;SEP&gt;01_shop_profile.md&lt;SEP&gt;04_policies.md</data>
+  <data key="d5">1791610551</data>
+  <data key="d6"></data>
+</node>
+<node id="อุปกรณ์สัตว์เลี้ยง">
+  <data key="d0">อุปกรณ์สัตว์เลี้ยง</data>
+  <data key="d1">concept</data>
+  <data key="d2">สินค้าที่ช่วยในการเลี้ยงดูสัตว์เลี้ยง รวมถึงปลอกคอ สายจูง และที่นอน</data>
+  <data key="d3">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000</data>
+  <data key="d4">03_product_guide.md</data>
+  <data key="d5">1791610534</data>
+  <data key="d6"></data>
+</node>
+<node id="อาหารเม็ด">
+  <data key="d0">อาหารเม็ด</data>
+  <data key="d1">content</data>
+  <data key="d2">ผลิตภัณฑ์อาหารสัตว์เลี้ยงในรูปแบบเม็ดที่สะดวกในการเก็บรักษา&lt;SEP&gt;ประเภทของสินค้าที่จำหน่ายในร้าน Good Dude Pet Shop สำหรับสุนัขและแมว&lt;SEP&gt;ผลิตภัณฑ์อาหารสำหรับสัตว์เลี้ยงที่มีเงื่อนไขการคืนเงินตามนโยบายของร้าน</data>
+  <data key="d3">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000&lt;SEP&gt;doc-d943893e8366bb7cba89b35d96424824-chunk-000&lt;SEP&gt;doc-2c7013c02a298465570d3ccc3888971d-chunk-000</data>
+  <data key="d4">03_product_guide.md&lt;SEP&gt;01_shop_profile.md&lt;SEP&gt;04_policies.md</data>
+  <data key="d5">1791610549</data>
+  <data key="d6"></data>
+</node>
+<node id="อาหารเปียก">
+  <data key="d0">อาหารเปียก</data>
+  <data key="d1">content</data>
+  <data key="d2">ผลิตภัณฑ์อาหารสัตว์เลี้ยงในบรรจุภัณฑ์กระป๋องที่ควรใช้ภายใน 24 ชั่วโมงหลังเปิด&lt;SEP&gt;ประเภทของสินค้าที่จำหน่ายในร้าน Good Dude Pet Shop สำหรับสุนัขและแมว</data>
+  <data key="d3">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000&lt;SEP&gt;doc-d943893e8366bb7cba89b35d96424824-chunk-000</data>
+  <data key="d4">03_product_guide.md&lt;SEP&gt;01_shop_profile.md</data>
+  <data key="d5">1791610536</data>
+  <data key="d6"></data>
+</node>
+<node id="สูตรแซลมอน">
+  <data key="d0">สูตรแซลมอน</data>
+  <data key="d1">content</data>
+  <data key="d2">ผลิตภัณฑ์อาหารสุนัขที่มีส่วนผสมหลักเป็นปลาแซลมอน</data>
+  <data key="d3">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000</data>
+  <data key="d4">03_product_guide.md</data>
+  <data key="d5">1791610534</data>
+  <data key="d6"></data>
+</node>
+<node id="สูตรไก่">
+  <data key="d0">สูตรไก่</data>
+  <data key="d1">content</data>
+  <data key="d2">ผลิตภัณฑ์อาหารสุนัขที่มีส่วนผสมหลักเป็นเนื้อไก่</data>
+  <data key="d3">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000</data>
+  <data key="d4">03_product_guide.md</data>
+  <data key="d5">1791610534</data>
+  <data key="d6"></data>
+</node>
+<node id="สูตรเนื้อวัว">
+  <data key="d0">สูตรเนื้อวัว</data>
+  <data key="d1">content</data>
+  <data key="d2">ผลิตภัณฑ์อาหารสุนัขที่มีส่วนผสมหลักเป็นเนื้อวัว</data>
+  <data key="d3">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000</data>
+  <data key="d4">03_product_guide.md</data>
+  <data key="d5">1791610534</data>
+  <data key="d6"></data>
+</node>
+<node id="สูตรทูน่า">
+  <data key="d0">สูตรทูน่า</data>
+  <data key="d1">content</data>
+  <data key="d2">ผลิตภัณฑ์อาหารแมวที่มีส่วนผสมหลักเป็นปลาทูน่า</data>
+  <data key="d3">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000</data>
+  <data key="d4">03_product_guide.md</data>
+  <data key="d5">1791610534</data>
+  <data key="d6"></data>
+</node>
+<node id="สูตรแซลมอนแมว">
+  <data key="d0">สูตรแซลมอนแมว</data>
+  <data key="d1">content</data>
+  <data key="d2">ผลิตภัณฑ์อาหารแมวที่มีส่วนผสมหลักเป็นปลาแซลมอน</data>
+  <data key="d3">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000</data>
+  <data key="d4">03_product_guide.md</data>
+  <data key="d5">1791610534</data>
+  <data key="d6"></data>
+</node>
+<node id="Mini Bite">
+  <data key="d0">Mini Bite</data>
+  <data key="d1">content</data>
+  <data key="d2">ผลิตภัณฑ์อาหารสุนัขสำหรับพันธุ์เล็กที่มีขนาดเล็กลง</data>
+  <data key="d3">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000</data>
+  <data key="d4">03_product_guide.md</data>
+  <data key="d5">1791610534</data>
+  <data key="d6"></data>
+</node>
+<node id="สุนัข">
+  <data key="d0">สุนัข</data>
+  <data key="d1">creature</data>
+  <data key="d2">สัตว์เลี้ยงที่สามารถซื้ออาหารและของใช้จากร้าน Good Dude Pet Shop</data>
+  <data key="d3">doc-d943893e8366bb7cba89b35d96424824-chunk-000</data>
+  <data key="d4">01_shop_profile.md</data>
+  <data key="d5">1791610536</data>
+  <data key="d6"></data>
+</node>
+<node id="แมว">
+  <data key="d0">แมว</data>
+  <data key="d1">creature</data>
+  <data key="d2">สัตว์เลี้ยงที่สามารถซื้ออาหารและของใช้จากร้าน Good Dude Pet Shop</data>
+  <data key="d3">doc-d943893e8366bb7cba89b35d96424824-chunk-000</data>
+  <data key="d4">01_shop_profile.md</data>
+  <data key="d5">1791610536</data>
+  <data key="d6"></data>
+</node>
+<node id="กรุงเทพมหานคร">
+  <data key="d0">กรุงเทพมหานคร</data>
+  <data key="d1">location</data>
+  <data key="d2">สถานที่ตั้งของร้าน Good Dude Pet Shop ที่มีที่อยู่ระบุในข้อมูล</data>
+  <data key="d3">doc-d943893e8366bb7cba89b35d96424824-chunk-000</data>
+  <data key="d4">01_shop_profile.md</data>
+  <data key="d5">1791610536</data>
+  <data key="d6"></data>
+</node>
+<node id="โทรศัพท์">
+  <data key="d0">โทรศัพท์</data>
+  <data key="d1">other</data>
+  <data key="d2">ช่องทางติดต่อร้าน Good Dude Pet Shop โดยหมายเลขโทรศัพท์ 02-000-0000</data>
+  <data key="d3">doc-d943893e8366bb7cba89b35d96424824-chunk-000</data>
+  <data key="d4">01_shop_profile.md</data>
+  <data key="d5">1791610536</data>
+  <data key="d6"></data>
+</node>
+<node id="LINE Official">
+  <data key="d0">LINE Official</data>
+  <data key="d1">other</data>
+  <data key="d2">ช่องทางติดต่อร้าน Good Dude Pet Shop ผ่านทาง LINE โดยใช้ไอดี @gooddude</data>
+  <data key="d3">doc-d943893e8366bb7cba89b35d96424824-chunk-000</data>
+  <data key="d4">01_shop_profile.md</data>
+  <data key="d5">1791610536</data>
+  <data key="d6"></data>
+</node>
+<node id="การสั่งซื้อ">
+  <data key="d0">การสั่งซื้อ</data>
+  <data key="d1">method</data>
+  <data key="d2">ขั้นตอนการสั่งซื้อสินค้าจากร้าน Good Dude Pet Shop ผ่านหน้าร้าน โทรศัพท์ หรือ LINE</data>
+  <data key="d3">doc-d943893e8366bb7cba89b35d96424824-chunk-000</data>
+  <data key="d4">01_shop_profile.md</data>
+  <data key="d5">1791610536</data>
+  <data key="d6"></data>
+</node>
+<node id="การชำระเงิน">
+  <data key="d0">การชำระเงิน</data>
+  <data key="d1">method</data>
+  <data key="d2">วิธีการชำระเงินสำหรับสินค้าจากร้าน Good Dude Pet Shop ซึ่งรวมถึงเงินสดและการโอนผ่านพร้อมเพย์</data>
+  <data key="d3">doc-d943893e8366bb7cba89b35d96424824-chunk-000</data>
+  <data key="d4">01_shop_profile.md</data>
+  <data key="d5">1791610536</data>
+  <data key="d6"></data>
+</node>
+<node id="การจัดส่งสินค้า">
+  <data key="d0">การจัดส่งสินค้า</data>
+  <data key="d1">method</data>
+  <data key="d2">วิธีการจัดส่งสินค้าจากร้าน Good Dude Pet Shop ซึ่งจำกัดการจัดส่งในรัศมี 5 กิโลเมตร&lt;SEP&gt;กระบวนการส่งสินค้าไปยังลูกค้าในรัศมี 5 กม. ของร้าน Good Dude Pet Shop</data>
+  <data key="d3">doc-d943893e8366bb7cba89b35d96424824-chunk-000&lt;SEP&gt;doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000</data>
+  <data key="d4">01_shop_profile.md&lt;SEP&gt;05_faq.md</data>
+  <data key="d5">1791610549</data>
+  <data key="d6"></data>
+</node>
+<node id="พนักงาน">
+  <data key="d0">พนักงาน</data>
+  <data key="d1">person</data>
+  <data key="d2">บุคคลที่ทำงานในร้าน Good Dude Pet Shop มีจำนวนทั้งหมด 4 คน ประกอบด้วยเจ้าของ 1 คน และพนักงานหน้าร้าน 3 คน&lt;SEP&gt;บุคคลที่รับผิดชอบในการตรวจสอบและอนุมัติการรับเรื่องสินค้ามีตำหนิ&lt;SEP&gt;บุคคลที่ทำหน้าที่อนุมัติการคืนสินค้าและคืนเงินในร้าน</data>
+  <data key="d3">doc-d943893e8366bb7cba89b35d96424824-chunk-000&lt;SEP&gt;doc-2c7013c02a298465570d3ccc3888971d-chunk-000&lt;SEP&gt;doc-2c7013c02a298465570d3ccc3888971d-chunk-001</data>
+  <data key="d4">01_shop_profile.md&lt;SEP&gt;04_policies.md</data>
+  <data key="d5">1791610549</data>
+  <data key="d6"></data>
+</node>
+<node id="ขนม">
+  <data key="d0">ขนม</data>
+  <data key="d1">content</data>
+  <data key="d2">ประเภทของสินค้าที่จำหน่ายในร้าน Good Dude Pet Shop สำหรับสุนัขและแมว&lt;SEP&gt;ผลิตภัณฑ์ที่กินได้สำหรับสัตว์เลี้ยง โดยมีนโยบายเกี่ยวกับการคืนสินค้า</data>
+  <data key="d3">doc-d943893e8366bb7cba89b35d96424824-chunk-000&lt;SEP&gt;doc-2c7013c02a298465570d3ccc3888971d-chunk-000</data>
+  <data key="d4">01_shop_profile.md&lt;SEP&gt;04_policies.md</data>
+  <data key="d5">1791610549</data>
+  <data key="d6"></data>
+</node>
+<node id="อุปกรณ์">
+  <data key="d0">อุปกรณ์</data>
+  <data key="d1">content</data>
+  <data key="d2">ประเภทของสินค้าที่จำหน่ายในร้าน Good Dude Pet Shop สำหรับสุนัขและแมว</data>
+  <data key="d3">doc-d943893e8366bb7cba89b35d96424824-chunk-000</data>
+  <data key="d4">01_shop_profile.md</data>
+  <data key="d5">1791610536</data>
+  <data key="d6"></data>
+</node>
+<node id="ของเล่น">
+  <data key="d0">ของเล่น</data>
+  <data key="d1">artifact</data>
+  <data key="d2">ประเภทของสินค้าที่จำหน่ายในร้าน Good Dude Pet Shop สำหรับสุนัขและแมว&lt;SEP&gt;ผลิตภัณฑ์เล่นสำหรับสัตว์เลี้ยงที่มีนโยบายการคืนเงิน</data>
+  <data key="d3">doc-d943893e8366bb7cba89b35d96424824-chunk-000&lt;SEP&gt;doc-2c7013c02a298465570d3ccc3888971d-chunk-000</data>
+  <data key="d4">01_shop_profile.md&lt;SEP&gt;04_policies.md</data>
+  <data key="d5">1791610551</data>
+  <data key="d6"></data>
+</node>
+<node id="รัศมีการจัดส่ง">
+  <data key="d0">รัศมีการจัดส่ง</data>
+  <data key="d1">data</data>
+  <data key="d2">ข้อกำหนดเกี่ยวกับการจัดส่งสินค้าจากร้าน Good Dude Pet Shop ที่จำกัดอยู่ในรัศมี 5 กิโลเมตร</data>
+  <data key="d3">doc-d943893e8366bb7cba89b35d96424824-chunk-000</data>
+  <data key="d4">01_shop_profile.md</data>
+  <data key="d5">1791610536</data>
+  <data key="d6"></data>
+</node>
+<node id="อาหารเม็ดสุนัขโต PawNature สูตรไก่และข้าว">
+  <data key="d0">อาหารเม็ดสุนัขโต PawNature สูตรไก่และข้าว</data>
+  <data key="d1">content</data>
+  <data key="d2">อาหารเม็ดสำหรับสุนัขโตที่มีส่วนผสมของไก่และข้าว ขนาด 3 กก. ราคาที่ 349 บาท ให้โปรตีนไม่ต่ำกว่า 24% และไขมันไม่ต่ำกว่า 12%</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="อาหารเม็ดสุนัขโต PawNature สูตรไก่และข้าว ขนาด 10 กก.">
+  <data key="d0">อาหารเม็ดสุนัขโต PawNature สูตรไก่และข้าว ขนาด 10 กก.</data>
+  <data key="d1">content</data>
+  <data key="d2">อาหารเม็ดสำหรับสุนัขโตเหมือนของ GD-D001 แต่มีขนาด 10 กก. ขายในราคา 790 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="อาหารเม็ดลูกสุนัข PawNature Puppy สูตรแซลมอน">
+  <data key="d0">อาหารเม็ดลูกสุนัข PawNature Puppy สูตรแซลมอน</data>
+  <data key="d1">content</data>
+  <data key="d2">อาหารเม็ดสำหรับลูกสุนัขอายุ 2-12 เดือน มีส่วนผสมหลักเป็นแซลมอน ขนาด 2 กก. ราคาที่ 299 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="อาหารเม็ดสุนัขพันธุ์เล็ก Mini Bite สูตรเนื้อแกะ">
+  <data key="d0">อาหารเม็ดสุนัขพันธุ์เล็ก Mini Bite สูตรเนื้อแกะ</data>
+  <data key="d1">content</data>
+  <data key="d2">อาหารเม็ดสำหรับสุนัขพันธุ์เล็กที่มีส่วนผสมหลักเป็นเนื้อแกะ ขนาด 1.5 กก. ราคาที่ 229 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="อาหารกระป๋องสุนัข PawNature เนื้อวัว">
+  <data key="d0">อาหารกระป๋องสุนัข PawNature เนื้อวัว</data>
+  <data key="d1">content</data>
+  <data key="d2">อาหารกระป๋องสำหรับสุนัขที่มีส่วนผสมหลักเป็นเนื้อวัว ขนาด 400 กรัม ราคาที่ 55 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="อาหารเม็ดสุนัขโต PawNature สูตรเนื้อวัว">
+  <data key="d0">อาหารเม็ดสุนัขโต PawNature สูตรเนื้อวัว</data>
+  <data key="d1">content</data>
+  <data key="d2">อาหารเม็ดสำหรับสุนัขโตที่มีส่วนผสมหลักเป็นเนื้อวัว ขนาด 3 กก. ราคาที่ 359 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="อาหารเปียกสุนัขแบบซอง PawNature สูตรไก่ตุ๋น">
+  <data key="d0">อาหารเปียกสุนัขแบบซอง PawNature สูตรไก่ตุ๋น</data>
+  <data key="d1">content</data>
+  <data key="d2">อาหารเปียกสำหรับสุนัขในซอง ขนาด 80 กรัม ราคาที่ 20 บาท มีส่วนผสมหลักเป็นไก่</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="อาหารเม็ดแมวโต Whisker Joy สูตรปลาทูน่า">
+  <data key="d0">อาหารเม็ดแมวโต Whisker Joy สูตรปลาทูน่า</data>
+  <data key="d1">content</data>
+  <data key="d2">อาหารเม็ดสำหรับแมวโตที่มีส่วนผสมหลักเป็นปลาทูน่า ขนาด 1.2 กก. ราคาที่ 185 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="อาหารเม็ดลูกแมว Whisker Joy Kitten สูตรไก่">
+  <data key="d0">อาหารเม็ดลูกแมว Whisker Joy Kitten สูตรไก่</data>
+  <data key="d1">content</data>
+  <data key="d2">อาหารเม็ดสำหรับลูกแมวอายุ 2-12 เดือนที่มีส่วนผสมหลักเป็นไก่ ขนาด 1.2 กก. ราคาที่ 210 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="อาหารเปียกแมวแบบซอง Whisker Joy สูตรปลาทะเล">
+  <data key="d0">อาหารเปียกแมวแบบซอง Whisker Joy สูตรปลาทะเล</data>
+  <data key="d1">content</data>
+  <data key="d2">อาหารเปียกสำหรับแมวในซอง ขนาด 70 กรัม ราคาที่ 18 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="ขนมขัดฟันสุนัข Dental Stick">
+  <data key="d0">ขนมขัดฟันสุนัข Dental Stick</data>
+  <data key="d1">content</data>
+  <data key="d2">ขนมสำหรับสุนัขที่ช่วยทำความสะอาดฟัน ขนาด 7 ชิ้น ราคาที่ 99 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="ทรายแมวเต้าหู้ ธรรมชาติ">
+  <data key="d0">ทรายแมวเต้าหู้ ธรรมชาติ</data>
+  <data key="d1">content</data>
+  <data key="d2">ทรายสำหรับแมวที่ทำจากเต้าหู้ ขนาด 6 ลิตร ราคาที่ 185 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="อาหารเม็ดแมวโต Whisker Joy สูตรแซลมอน">
+  <data key="d0">อาหารเม็ดแมวโต Whisker Joy สูตรแซลมอน</data>
+  <data key="d1">content</data>
+  <data key="d2">อาหารเม็ดสำหรับแมวโตที่มีส่วนผสมหลักเป็นแซลมอน ขนาด 1.2 กก. ราคาที่ 189 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="อาหารกระป๋องแมว Whisker Joy ปลาซาร์ดีน">
+  <data key="d0">อาหารกระป๋องแมว Whisker Joy ปลาซาร์ดีน</data>
+  <data key="d1">content</data>
+  <data key="d2">อาหารกระป๋องสำหรับแมวที่มีส่วนผสมหลักเป็นปลาซาร์ดีน ขนาด 85 กรัม ราคาที่ 28 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="ขนมไก่อบแห้งสำหรับสุนัข">
+  <data key="d0">ขนมไก่อบแห้งสำหรับสุนัข</data>
+  <data key="d1">content</data>
+  <data key="d2">ขนมสำหรับสุนัขที่ทำจากไก่อบแห้ง ขนาด 100 กรัม ราคาที่ 85 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="ขนมแมวเลีย Creamy Treat รสทูน่า">
+  <data key="d0">ขนมแมวเลีย Creamy Treat รสทูน่า</data>
+  <data key="d1">content</data>
+  <data key="d2">ขนมสำหรับแมวที่มีรสชาติตูน่า ขนาด 4 ซอง ราคาที่ 49 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="ขนมแมวปลาแห้งกรอบ">
+  <data key="d0">ขนมแมวปลาแห้งกรอบ</data>
+  <data key="d1">content</data>
+  <data key="d2">ขนมสำหรับแมวที่ทำจากปลาแห้งแบบกรอบ ขนาด 50 กรัม ราคาที่ 39 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="ทรายแมวเบนท">
+  <data key="d0">ทรายแมวเบนท</data>
+  <data key="d1">content</data>
+  <data key="d2">ทรายสำหรับแมวประเภทเบนโทไนท์ ที่มีการทำสีหรือกลิ่นเฉพาะ ขนาดที่ไม่ระบุในข้อมูล</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="ทรายแมวเต้าหู้ ธรรมชาติ (ทิ้งชักโครกไม่ได้)">
+  <data key="d0">ทรายแมวเต้าหู้ ธรรมชาติ (ทิ้งชักโครกไม่ได้)</data>
+  <data key="d1">content</data>
+  <data key="d2">ผลิตภัณฑ์ทรายแมวจากธรรมชาติที่ไม่สามารถทิ้งในโถชักโครกได้ ขนาด 6 ลิตร ราคาที่เสนอคือ 185 บาท&lt;SEP&gt;ทรายแมวเต้าหู้ที่ไม่สามารถทิ้งลงชักโครกได้ ขนาด 6 ลิตร ราคาที่ 185 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000&lt;SEP&gt;doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="ทรายแมวเบนทอไนต์ จับตัวเป็นก้อน">
+  <data key="d0">ทรายแมวเบนทอไนต์ จับตัวเป็นก้อน</data>
+  <data key="d1">artifact</data>
+  <data key="d2">ทรายแมวชนิดเบนทอไนต์ที่สามารถจับตัวเป็นก้อน ขนาด 10 ลิตร ราคาคือ 139 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="แชมพูอาบน้ำสุนัขและแมว สูตรอ่อนโยน">
+  <data key="d0">แชมพูอาบน้ำสุนัขและแมว สูตรอ่อนโยน</data>
+  <data key="d1">artifact</data>
+  <data key="d2">แชมพูที่ใช้สำหรับอาบน้ำสุนัขและแมว มีสูตรอ่อนโยน ขนาด 250 มล. ราคาที่ตั้งไว้คือ 149 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="ทรายแมวคาร์บอนดับกลิ่น จับตัวเป็นก้อน">
+  <data key="d0">ทรายแมวคาร์บอนดับกลิ่น จับตัวเป็นก้อน</data>
+  <data key="d1">artifact</data>
+  <data key="d2">ผลิตภัณฑ์ทรายแมวที่ประกอบด้วยคาร์บอนซึ่งช่วยดับกลิ่น และสามารถจับตัวเป็นก้อน ขนาด 5 ลิตร ราคาคือ 99 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="กระบะทรายแมว มีฝาครอบ">
+  <data key="d0">กระบะทรายแมว มีฝาครอบ</data>
+  <data key="d1">artifact</data>
+  <data key="d2">กระบะสำหรับใส่ทรายแมวที่มาพร้อมกับฝาครอบ ขนาดไซซ์ M ราคาที่เสนอคือ 349 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="ถุงเก็บมูลสุนัข">
+  <data key="d0">ถุงเก็บมูลสุนัข</data>
+  <data key="d1">artifact</data>
+  <data key="d2">ผลิตภัณฑ์ถุงสำหรับเก็บมูลสุนัข มาพร้อมกับ 4 ม้วน แต่ละม้วนมี 15 ถุง รวมทั้งหมด 60 ถุง ราคาคือ 39 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="ของเล่นยางกัดสุนัข รูปกระดูก">
+  <data key="d0">ของเล่นยางกัดสุนัข รูปกระดูก</data>
+  <data key="d1">artifact</data>
+  <data key="d2">ของเล่นที่ทำจากยางสำหรับสุนัข รูปทรงกระดูก ขนาดเดียว ราคาคือ 119 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="ของเล่นไม้ตกแมว มีขนนก">
+  <data key="d0">ของเล่นไม้ตกแมว มีขนนก</data>
+  <data key="d1">artifact</data>
+  <data key="d2">ของเล่นสำหรับแมวที่ทำจากไม้ มีขนนก ขนาดเดียว ราคาคือ 45 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="ที่นอนสุนัข/แมว ทรงกลม ไซซ์ M">
+  <data key="d0">ที่นอนสุนัข/แมว ทรงกลม ไซซ์ M</data>
+  <data key="d1">artifact</data>
+  <data key="d2">ที่นอนสำหรับสุนัขหรือแมว ทรงกลม ขนาดไซซ์ M (60 ซม.) ราคาคือ 390 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="ที่นอนสุนัข/แมว ทรงกลม ไซซ์ L">
+  <data key="d0">ที่นอนสุนัข/แมว ทรงกลม ไซซ์ L</data>
+  <data key="d1">artifact</data>
+  <data key="d2">ที่นอนสำหรับสุนัขหรือแมว ทรงกลม ขนาดไซซ์ L (80 ซม.) ราคาคือ 550 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="ปลอกคอพร้อมสายจูง ไซซ์ S">
+  <data key="d0">ปลอกคอพร้อมสายจูง ไซซ์ S</data>
+  <data key="d1">artifact</data>
+  <data key="d2">ปลอกคอสำหรับสัตว์เลี้ยงที่มาพร้อมกับสายจูง ขนาดไซซ์ S ราคาคือ 129 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="ปลอกคอพร้อมสายจูง ไซซ์ M">
+  <data key="d0">ปลอกคอพร้อมสายจูง ไซซ์ M</data>
+  <data key="d1">artifact</data>
+  <data key="d2">ปลอกคอสำหรับสัตว์เลี้ยงที่มาพร้อมกับสายจูง ขนาดไซซ์ M ราคาคือ 149 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="ปลอกคอพร้อมสายจูง ไซซ์ L">
+  <data key="d0">ปลอกคอพร้อมสายจูง ไซซ์ L</data>
+  <data key="d1">artifact</data>
+  <data key="d2">ปลอกคอสำหรับสัตว์เลี้ยงที่มาพร้อมกับสายจูง ขนาดไซซ์ L ราคาคือ 169 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="ชามอาหารสแตนเลส ฐานกันลื่น">
+  <data key="d0">ชามอาหารสแตนเลส ฐานกันลื่น</data>
+  <data key="d1">artifact</data>
+  <data key="d2">ชามอาหารที่ทำจากสแตนเลสพร้อมฐานกันลื่น ขนาด 18 ซม. ราคาคือ 79 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="กรงเดินทางพลาสติก ไซซ์ M">
+  <data key="d0">กรงเดินทางพลาสติก ไซซ์ M</data>
+  <data key="d1">artifact</data>
+  <data key="d2">กรงพลาสติกสำหรับการเดินทางของสัตว์เลี้ยง ขนาดไซซ์ M ราคาคือ 690 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="ที่ลับเล็บแมว กระดาษลูกฟูก">
+  <data key="d0">ที่ลับเล็บแมว กระดาษลูกฟูก</data>
+  <data key="d1">artifact</data>
+  <data key="d2">ที่ลับเล็บสำหรับแมวทำจากกระดาษลูกฟูก ขนาดเดียว ราคาคือ 99 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="ลูกบอลยางมีเสียงสำหรับสุนัข">
+  <data key="d0">ลูกบอลยางมีเสียงสำหรับสุนัข</data>
+  <data key="d1">artifact</data>
+  <data key="d2">ลูกบอลทำจากยางที่มีเสียงสำหรับสุนัข ขนาดเดียว ราคาคือ 39 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="อุโมงค์แมวพับได้">
+  <data key="d0">อุโมงค์แมวพับได้</data>
+  <data key="d1">artifact</data>
+  <data key="d2">อุโมงค์ที่ออกแบบมาสำหรับแมวและสามารถพับเก็บได้ ขนาดเดียว ราคาคือ 229 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="น้ำพุอัตโนมัติสำหรับสุนัขและแมว">
+  <data key="d0">น้ำพุอัตโนมัติสำหรับสุนัขและแมว</data>
+  <data key="d1">artifact</data>
+  <data key="d2">น้ำพุที่ออกแบบมาเพื่อให้สุนัขและแมวได้ดื่มน้ำโดยอัตโนมัติ ขนาด 2 ลิตร ราคาคือ 490 บาท</data>
+  <data key="d3">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-001</data>
+  <data key="d4">02_products.md</data>
+  <data key="d5">1791610542</data>
+  <data key="d6"></data>
+</node>
+<node id="Good Dude Club">
+  <data key="d0">Good Dude Club</data>
+  <data key="d1">organization</data>
+  <data key="d2">โปรแกรมสมาชิกของร้าน Good Dude Pet Shop ที่ให้สิทธิประโยชน์และส่วนลดแก่สมาชิก</data>
+  <data key="d3">doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000</data>
+  <data key="d4">05_faq.md</data>
+  <data key="d5">1791610549</data>
+  <data key="d6"></data>
+</node>
+<node id="PawNature Puppy">
+  <data key="d0">PawNature Puppy</data>
+  <data key="d1">content</data>
+  <data key="d2">อาหารสำหรับลูกสุนัข สูตรแซลมอน ขนาด 2 กิโลกรัม ราคา 299 บาท</data>
+  <data key="d3">doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000</data>
+  <data key="d4">05_faq.md</data>
+  <data key="d5">1791610549</data>
+  <data key="d6"></data>
+</node>
+<node id="Whisker Joy Kitten">
+  <data key="d0">Whisker Joy Kitten</data>
+  <data key="d1">content</data>
+  <data key="d2">อาหารสำหรับลูกแมว สูตรไก่ ขนาด 1.2 กิโลกรัม ราคา 210 บาท</data>
+  <data key="d3">doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000</data>
+  <data key="d4">05_faq.md</data>
+  <data key="d5">1791610549</data>
+  <data key="d6"></data>
+</node>
+<node id="ทรายเบนทอไนต์">
+  <data key="d0">ทรายเบนทอไนต์</data>
+  <data key="d1">content</data>
+  <data key="d2">ผลิตภัณฑ์สำหรับกรองขนสัตว์ที่จับตัวเป็นก้อน ราคา 390 บาทสำหรับ 3 ถุง</data>
+  <data key="d3">doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000</data>
+  <data key="d4">05_faq.md</data>
+  <data key="d5">1791610549</data>
+  <data key="d6"></data>
+</node>
+<node id="อาหารเปียกแมว">
+  <data key="d0">อาหารเปียกแมว</data>
+  <data key="d1">content</data>
+  <data key="d2">อาหารสำหรับแมวที่มีในร้าน ราคา 200 บาทสำหรับซองยกโหล</data>
+  <data key="d3">doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000</data>
+  <data key="d4">05_faq.md</data>
+  <data key="d5">1791610549</data>
+  <data key="d6"></data>
+</node>
+<node id="อาหารและขนม">
+  <data key="d0">อาหารและขนม</data>
+  <data key="d1">content</data>
+  <data key="d2">ผลิตภัณฑ์ที่สามารถคืนเงินได้ตามเงื่อนไขเมื่อมีตำหนิ</data>
+  <data key="d3">doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000</data>
+  <data key="d4">05_faq.md</data>
+  <data key="d5">1791610549</data>
+  <data key="d6"></data>
+</node>
+<node id="เงินสด">
+  <data key="d0">เงินสด</data>
+  <data key="d1">other</data>
+  <data key="d2">วิธีการชำระเงินที่ร้าน Good Dude Pet Shop ใช้ในการทำธุรกรรม</data>
+  <data key="d3">doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000</data>
+  <data key="d4">05_faq.md</data>
+  <data key="d5">1791610549</data>
+  <data key="d6"></data>
+</node>
+<node id="โอนพร้อมเพย์">
+  <data key="d0">โอนพร้อมเพย์</data>
+  <data key="d1">other</data>
+  <data key="d2">วิธีการชำระเงินที่ร้าน Good Dude Pet Shop ที่ผู้ใช้สามารถโอนเงินผ่านแอปพลิเคชัน</data>
+  <data key="d3">doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000</data>
+  <data key="d4">05_faq.md</data>
+  <data key="d5">1791610549</data>
+  <data key="d6"></data>
+</node>
+<node id="LINE">
+  <data key="d0">LINE</data>
+  <data key="d1">other</data>
+  <data key="d2">แพลตฟอร์มสื่อสารที่ใช้ติดต่อร้าน Good Dude Pet Shop เพื่อสั่งสินค้าหรือบริการ</data>
+  <data key="d3">doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000</data>
+  <data key="d4">05_faq.md</data>
+  <data key="d5">1791610549</data>
+  <data key="d6"></data>
+</node>
+<node id="นโยบายการคืนสินค้าและคืนเงิน">
+  <data key="d0">นโยบายการคืนสินค้าและคืนเงิน</data>
+  <data key="d1">concept</data>
+  <data key="d2">นโยบายที่ให้ลูกค้าสามารถคืนสินค้าภายในกำหนดเวลาที่ระบุ พร้อมเงื่อนไขและวิธีการคืนเงิน</data>
+  <data key="d3">doc-2c7013c02a298465570d3ccc3888971d-chunk-000</data>
+  <data key="d4">04_policies.md</data>
+  <data key="d5">1791610549</data>
+  <data key="d6"></data>
+</node>
+<node id="ลูกค้า">
+  <data key="d0">ลูกค้า</data>
+  <data key="d1">person</data>
+  <data key="d2">ผู้ที่ซื้อสินค้าและใช้บริการจากร้าน Good Dude Pet Shop</data>
+  <data key="d3">doc-2c7013c02a298465570d3ccc3888971d-chunk-000</data>
+  <data key="d4">04_policies.md</data>
+  <data key="d5">1791610549</data>
+  <data key="d6"></data>
+</node>
+<node id="สินค้ามีตำหนิ">
+  <data key="d0">สินค้ามีตำหนิ</data>
+  <data key="d1">concept</data>
+  <data key="d2">ความไม่สมบูรณ์ของสินค้าที่ต้องแจ้งและดำเนินการตามนโยบายภายใน 3 วัน&lt;SEP&gt;ประเภทสินค้าที่ได้รับการยกเว้นจากการคืนเงินในกรณีมีข้อบกพร่อง</data>
+  <data key="d3">doc-2c7013c02a298465570d3ccc3888971d-chunk-000&lt;SEP&gt;doc-2c7013c02a298465570d3ccc3888971d-chunk-001</data>
+  <data key="d4">04_policies.md</data>
+  <data key="d5">1791610549</data>
+  <data key="d6"></data>
+</node>
+<node id="สมาชิกและโปรโมชัน (Good Dude Club)">
+  <data key="d0">สมาชิกและโปรโมชัน (Good Dude Club)</data>
+  <data key="d1">concept</data>
+  <data key="d2">โปรแกรมที่ให้ลูกค้าเก็บคะแนนและแลกส่วนลดในการซื้อสินค้า</data>
+  <data key="d3">doc-2c7013c02a298465570d3ccc3888971d-chunk-000</data>
+  <data key="d4">04_policies.md</data>
+  <data key="d5">1791610549</data>
+  <data key="d6"></data>
+</node>
+<node id="ช่องทางการติดต่อ (LINE)">
+  <data key="d0">ช่องทางการติดต่อ (LINE)</data>
+  <data key="d1">other</data>
+  <data key="d2">ช่องทางที่ลูกค้าติดต่อร้านเพื่อขอคืนสินค้า ยกเลิกคำสั่งซื้อ หรือสอบถามข้อมูล</data>
+  <data key="d3">doc-2c7013c02a298465570d3ccc3888971d-chunk-000</data>
+  <data key="d4">04_policies.md</data>
+  <data key="d5">1791610551</data>
+  <data key="d6"></data>
+</node>
+<node id="รูปภาพที่ลูกค้าส่งให้ร้าน">
+  <data key="d0">รูปภาพที่ลูกค้าส่งให้ร้าน</data>
+  <data key="d1">artifact</data>
+  <data key="d2">ภาพถ่ายที่ลูกค้าส่งเพื่อยืนยันการทำธุรกรรม เช่น สลิปโอนเงิน</data>
+  <data key="d3">doc-2c7013c02a298465570d3ccc3888971d-chunk-000</data>
+  <data key="d4">04_policies.md</data>
+  <data key="d5">1791610551</data>
+  <data key="d6"></data>
+</node>
+<node id="แชมพู">
+  <data key="d0">แชมพู</data>
+  <data key="d1">content</data>
+  <data key="d2">ผลิตภัณฑ์ทำความสะอาดสัตว์เลี้ยงที่มีนโยบายการคืนเงิน</data>
+  <data key="d3">doc-2c7013c02a298465570d3ccc3888971d-chunk-000</data>
+  <data key="d4">04_policies.md</data>
+  <data key="d5">1791610551</data>
+  <data key="d6"></data>
+</node>
+<node id="ที่นอน">
+  <data key="d0">ที่นอน</data>
+  <data key="d1">artifact</data>
+  <data key="d2">ที่ให้สัตว์เลี้ยงนอน ซึ่งมีนโยบายการคืนเงินในกรณีไม่ใช้งาน</data>
+  <data key="d3">doc-2c7013c02a298465570d3ccc3888971d-chunk-000</data>
+  <data key="d4">04_policies.md</data>
+  <data key="d5">1791610551</data>
+  <data key="d6"></data>
+</node>
+<node id="กรงเดินทาง">
+  <data key="d0">กรงเดินทาง</data>
+  <data key="d1">artifact</data>
+  <data key="d2">กรงสำหรับพาสัตว์เลี้ยงเดินทาง ที่มีนโยบายความรับผิดชอบต่อการคืนเงิน</data>
+  <data key="d3">doc-2c7013c02a298465570d3ccc3888971d-chunk-000</data>
+  <data key="d4">04_policies.md</data>
+  <data key="d5">1791610551</data>
+  <data key="d6"></data>
+</node>
+<node id="น้ำพุ">
+  <data key="d0">น้ำพุ</data>
+  <data key="d1">artifact</data>
+  <data key="d2">อุปกรณ์ให้สัตว์เลี้ยงดื่มน้ำ ที่มีเงื่อนไขการคืนเงิน</data>
+  <data key="d3">doc-2c7013c02a298465570d3ccc3888971d-chunk-000</data>
+  <data key="d4">04_policies.md</data>
+  <data key="d5">1791610551</data>
+  <data key="d6"></data>
+</node>
+<node id="ชามอาหาร">
+  <data key="d0">ชามอาหาร</data>
+  <data key="d1">artifact</data>
+  <data key="d2">วัสดุที่ใช้สำหรับให้สัตว์เลี้ยงกินอาหาร โดยมีเงื่อนไขการคืนเงิน</data>
+  <data key="d3">doc-2c7013c02a298465570d3ccc3888971d-chunk-000</data>
+  <data key="d4">04_policies.md</data>
+  <data key="d5">1791610551</data>
+  <data key="d6"></data>
+</node>
+<node id="หัวข้อสินค้ามีตำหนิ">
+  <data key="d0">หัวข้อสินค้ามีตำหนิ</data>
+  <data key="d1">concept</data>
+  <data key="d2">แนวคิดเกี่ยวกับการแจ้งสินค้าที่มีตำหนิที่ต้องดำเนินการภายใน 3 วัน</data>
+  <data key="d3">doc-2c7013c02a298465570d3ccc3888971d-chunk-001</data>
+  <data key="d4">04_policies.md</data>
+  <data key="d5">1791610551</data>
+  <data key="d6"></data>
+</node>
+<node id="ร้าน">
+  <data key="d0">ร้าน</data>
+  <data key="d1">organization</data>
+  <data key="d2">สถานที่จำหน่ายสินค้าที่มีนโยบายเกี่ยวกับการคืนสินค้าและการรับผิดชอบต่อความเสียหาย</data>
+  <data key="d3">doc-2c7013c02a298465570d3ccc3888971d-chunk-001</data>
+  <data key="d4">04_policies.md</data>
+  <data key="d5">1791610551</data>
+  <data key="d6"></data>
+</node>
+<node id="สลิปโอนเงิน">
+  <data key="d0">สลิปโอนเงิน</data>
+  <data key="d1">artifact</data>
+  <data key="d2">เอกสารที่ใช้ในการยืนยันการโอนเงินที่มีข้อมูลเกี่ยวกับยอดเงิน วันที่ และเวลา</data>
+  <data key="d3">doc-2c7013c02a298465570d3ccc3888971d-chunk-001</data>
+  <data key="d4">04_policies.md</data>
+  <data key="d5">1791610551</data>
+  <data key="d6"></data>
+</node>
+<node id="ฉลาก ป้ายราคา หรือรูปสินค้า">
+  <data key="d0">ฉลาก ป้ายราคา หรือรูปสินค้า</data>
+  <data key="d1">artifact</data>
+  <data key="d2">สิ่งของที่บ่งบอกข้อมูลเกี่ยวกับสินค้า ซึ่งรวมถึงฉลาก ราคา หรือภาพของสินค้าที่ต้องเปรียบเทียบกับรายการสินค้าของร้าน</data>
+  <data key="d3">doc-2c7013c02a298465570d3ccc3888971d-chunk-001</data>
+  <data key="d4">04_policies.md</data>
+  <data key="d5">1791610551</data>
+  <data key="d6"></data>
+</node>
+<node id="ใบเสร็จ">
+  <data key="d0">ใบเสร็จ</data>
+  <data key="d1">artifact</data>
+  <data key="d2">เอกสารการซื้อที่ใช้ตรวจสอบวันที่ซื้อของสินค้า</data>
+  <data key="d3">doc-2c7013c02a298465570d3ccc3888971d-chunk-001</data>
+  <data key="d4">04_policies.md</data>
+  <data key="d5">1791610551</data>
+  <data key="d6"></data>
+</node>
+<node id="ภาพไม่ชัด">
+  <data key="d0">ภาพไม่ชัด</data>
+  <data key="d1">concept</data>
+  <data key="d2">ปัญหาที่เกิดจากคุณภาพของภาพที่ลูกค้าส่งมา ซึ่งต้องมีการถ่ายใหม่เพื่อให้ข้อมูลชัดเจน</data>
+  <data key="d3">doc-2c7013c02a298465570d3ccc3888971d-chunk-001</data>
+  <data key="d4">04_policies.md</data>
+  <data key="d5">1791610551</data>
+  <data key="d6"></data>
+</node>
+<edge source="Good Dude Pet Shop" target="PawNature">
+  <data key="d7">1.0</data>
+  <data key="d8">Good Dude Pet Shop จำหน่ายผลิตภัณฑ์อาหารสุนัขของแบรนด์ PawNature</data>
+  <data key="d9">ขาย,จำหน่าย</data>
+  <data key="d10">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000</data>
+  <data key="d11">03_product_guide.md</data>
+  <data key="d12">1791610534</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="Whisker Joy">
+  <data key="d7">1.0</data>
+  <data key="d8">Good Dude Pet Shop จำหน่ายผลิตภัณฑ์อาหารแมวของแบรนด์ Whisker Joy</data>
+  <data key="d9">ขาย,จำหน่าย</data>
+  <data key="d10">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000</data>
+  <data key="d11">03_product_guide.md</data>
+  <data key="d12">1791610534</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="ทรายแมว">
+  <data key="d7">3.0</data>
+  <data key="d8">Good Dude Pet Shop จำหน่ายทรายแมวประเภทต่างๆ&lt;SEP&gt;ร้าน Good Dude Pet Shop จำหน่ายทรายแมว&lt;SEP&gt;ร้านมีทรายแมวที่จำหน่ายให้กับลูกค้า</data>
+  <data key="d9">จำหน่าย,มีสินค้า</data>
+  <data key="d10">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000&lt;SEP&gt;doc-d943893e8366bb7cba89b35d96424824-chunk-000&lt;SEP&gt;doc-2c7013c02a298465570d3ccc3888971d-chunk-000</data>
+  <data key="d11">03_product_guide.md&lt;SEP&gt;01_shop_profile.md&lt;SEP&gt;04_policies.md</data>
+  <data key="d12">1791610551</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="อุปกรณ์สัตว์เลี้ยง">
+  <data key="d7">1.0</data>
+  <data key="d8">Good Dude Pet Shop จำหน่ายอุปกรณ์สำหรับสัตว์เลี้ยง เช่น ปลอกคอและที่นอน</data>
+  <data key="d9">จำหน่าย</data>
+  <data key="d10">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000</data>
+  <data key="d11">03_product_guide.md</data>
+  <data key="d12">1791610534</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="อาหารเม็ด">
+  <data key="d7">2.0</data>
+  <data key="d8">Good Dude Pet Shop จำหน่ายอาหารสัตว์เลี้ยงในรูปแบบเม็ด&lt;SEP&gt;ร้าน Good Dude Pet Shop จำหน่ายอาหารเม็ดสำหรับสุนัขและแมว</data>
+  <data key="d9">จำหน่าย</data>
+  <data key="d10">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000&lt;SEP&gt;doc-d943893e8366bb7cba89b35d96424824-chunk-000</data>
+  <data key="d11">03_product_guide.md&lt;SEP&gt;01_shop_profile.md</data>
+  <data key="d12">1791610536</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="อาหารเปียก">
+  <data key="d7">2.0</data>
+  <data key="d8">Good Dude Pet Shop จำหน่ายอาหารสัตว์เลี้ยงในรูปแบบกระป๋อง&lt;SEP&gt;ร้าน Good Dude Pet Shop จำหน่ายอาหารเปียกสำหรับสุนัขและแมว</data>
+  <data key="d9">จำหน่าย</data>
+  <data key="d10">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000&lt;SEP&gt;doc-d943893e8366bb7cba89b35d96424824-chunk-000</data>
+  <data key="d11">03_product_guide.md&lt;SEP&gt;01_shop_profile.md</data>
+  <data key="d12">1791610536</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="สุนัข">
+  <data key="d7">1.0</data>
+  <data key="d8">ร้าน Good Dude Pet Shop จำหน่ายอาหารและของใช้สำหรับสุนัข</data>
+  <data key="d9">จำหน่าย</data>
+  <data key="d10">doc-d943893e8366bb7cba89b35d96424824-chunk-000</data>
+  <data key="d11">01_shop_profile.md</data>
+  <data key="d12">1791610536</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="แมว">
+  <data key="d7">1.0</data>
+  <data key="d8">ร้าน Good Dude Pet Shop จำหน่ายอาหารและของใช้สำหรับแมว</data>
+  <data key="d9">จำหน่าย</data>
+  <data key="d10">doc-d943893e8366bb7cba89b35d96424824-chunk-000</data>
+  <data key="d11">01_shop_profile.md</data>
+  <data key="d12">1791610536</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="กรุงเทพมหานคร">
+  <data key="d7">1.0</data>
+  <data key="d8">ร้าน Good Dude Pet Shop ตั้งอยู่ในกรุงเทพมหานคร</data>
+  <data key="d9">ตั้งอยู่ที่</data>
+  <data key="d10">doc-d943893e8366bb7cba89b35d96424824-chunk-000</data>
+  <data key="d11">01_shop_profile.md</data>
+  <data key="d12">1791610536</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="การสั่งซื้อ">
+  <data key="d7">1.0</data>
+  <data key="d8">การสั่งซื้อสินค้าจากร้าน Good Dude Pet Shop เกิดขึ้นผ่านหลายช่องทาง</data>
+  <data key="d9">เกี่ยวข้องกับ</data>
+  <data key="d10">doc-d943893e8366bb7cba89b35d96424824-chunk-000</data>
+  <data key="d11">01_shop_profile.md</data>
+  <data key="d12">1791610536</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="การชำระเงิน">
+  <data key="d7">1.0</data>
+  <data key="d8">การชำระเงินสำหรับสินค้าจากร้าน Good Dude Pet Shop มีหลายวิธี</data>
+  <data key="d9">เกี่ยวข้องกับ</data>
+  <data key="d10">doc-d943893e8366bb7cba89b35d96424824-chunk-000</data>
+  <data key="d11">01_shop_profile.md</data>
+  <data key="d12">1791610536</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="การจัดส่งสินค้า">
+  <data key="d7">2.0</data>
+  <data key="d8">การจัดส่งสินค้าเกิดขึ้นที่ร้าน Good Dude Pet Shop โดยมีเงื่อนไขเฉพาะ&lt;SEP&gt;Good Dude Pet Shop ให้บริการการจัดส่งสินค้าในรัศมี 5 กม.</data>
+  <data key="d9">เกี่ยวข้องกับ,ให้บริการ</data>
+  <data key="d10">doc-d943893e8366bb7cba89b35d96424824-chunk-000&lt;SEP&gt;doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000</data>
+  <data key="d11">01_shop_profile.md&lt;SEP&gt;05_faq.md</data>
+  <data key="d12">1791610549</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="พนักงาน">
+  <data key="d7">2.0</data>
+  <data key="d8">ร้าน Good Dude Pet Shop มีพนักงานจำนวน 4 คน&lt;SEP&gt;พนักงานทำหน้าที่อนุมัติการคืนสินค้าในร้าน</data>
+  <data key="d9">ทำงาน,มี</data>
+  <data key="d10">doc-d943893e8366bb7cba89b35d96424824-chunk-000&lt;SEP&gt;doc-2c7013c02a298465570d3ccc3888971d-chunk-000</data>
+  <data key="d11">01_shop_profile.md&lt;SEP&gt;04_policies.md</data>
+  <data key="d12">1791610551</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="ขนม">
+  <data key="d7">1.0</data>
+  <data key="d8">ร้าน Good Dude Pet Shop จำหน่ายขนมสำหรับสุนัขและแมว</data>
+  <data key="d9">จำหน่าย</data>
+  <data key="d10">doc-d943893e8366bb7cba89b35d96424824-chunk-000</data>
+  <data key="d11">01_shop_profile.md</data>
+  <data key="d12">1791610536</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="อุปกรณ์">
+  <data key="d7">1.0</data>
+  <data key="d8">ร้าน Good Dude Pet Shop จำหน่ายอุปกรณ์สำหรับสุนัขและแมว</data>
+  <data key="d9">จำหน่าย</data>
+  <data key="d10">doc-d943893e8366bb7cba89b35d96424824-chunk-000</data>
+  <data key="d11">01_shop_profile.md</data>
+  <data key="d12">1791610536</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="ของเล่น">
+  <data key="d7">2.0</data>
+  <data key="d8">ร้าน Good Dude Pet Shop จำหน่ายของเล่นสำหรับสุนัขและแมว&lt;SEP&gt;ร้านมีของเล่นสำหรับสัตว์เลี้ยงจำหน่าย</data>
+  <data key="d9">จำหน่าย,มีสินค้า</data>
+  <data key="d10">doc-d943893e8366bb7cba89b35d96424824-chunk-000&lt;SEP&gt;doc-2c7013c02a298465570d3ccc3888971d-chunk-000</data>
+  <data key="d11">01_shop_profile.md&lt;SEP&gt;04_policies.md</data>
+  <data key="d12">1791610551</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="รัศมีการจัดส่ง">
+  <data key="d7">1.0</data>
+  <data key="d8">การจัดส่งของร้าน Good Dude Pet Shop จำกัดอยู่ในรัศมี 5 กิโลเมตร</data>
+  <data key="d9">จำกัดการจัดส่งใน</data>
+  <data key="d10">doc-d943893e8366bb7cba89b35d96424824-chunk-000</data>
+  <data key="d11">01_shop_profile.md</data>
+  <data key="d12">1791610536</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="อาหารเม็ดสุนัขโต PawNature สูตรไก่และข้าว">
+  <data key="d7">1.0</data>
+  <data key="d8">Good Dude Pet Shop จำหน่ายอาหารเม็ดสุนัขโต PawNature สูตรไก่และข้าว</data>
+  <data key="d9">จำหน่าย</data>
+  <data key="d10">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d11">02_products.md</data>
+  <data key="d12">1791610542</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="อาหารเม็ดสุนัขโต PawNature สูตรไก่และข้าว ขนาด 10 กก.">
+  <data key="d7">1.0</data>
+  <data key="d8">Good Dude Pet Shop จำหน่ายอาหารเม็ดสุนัขโต PawNature สูตรไก่และข้าว ขนาด 10 กก.</data>
+  <data key="d9">จำหน่าย</data>
+  <data key="d10">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d11">02_products.md</data>
+  <data key="d12">1791610542</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="อาหารเม็ดลูกสุนัข PawNature Puppy สูตรแซลมอน">
+  <data key="d7">1.0</data>
+  <data key="d8">Good Dude Pet Shop จำหน่ายอาหารเม็ดลูกสุนัข PawNature Puppy สูตรแซลมอน</data>
+  <data key="d9">จำหน่าย</data>
+  <data key="d10">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d11">02_products.md</data>
+  <data key="d12">1791610542</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="อาหารเม็ดสุนัขพันธุ์เล็ก Mini Bite สูตรเนื้อแกะ">
+  <data key="d7">1.0</data>
+  <data key="d8">Good Dude Pet Shop จำหน่ายอาหารเม็ดสุนัขพันธุ์เล็ก Mini Bite สูตรเนื้อแกะ</data>
+  <data key="d9">จำหน่าย</data>
+  <data key="d10">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d11">02_products.md</data>
+  <data key="d12">1791610542</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="อาหารกระป๋องสุนัข PawNature เนื้อวัว">
+  <data key="d7">1.0</data>
+  <data key="d8">Good Dude Pet Shop จำหน่ายอาหารกระป๋องสุนัข PawNature เนื้อวัว</data>
+  <data key="d9">จำหน่าย</data>
+  <data key="d10">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d11">02_products.md</data>
+  <data key="d12">1791610542</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="อาหารเม็ดสุนัขโต PawNature สูตรเนื้อวัว">
+  <data key="d7">1.0</data>
+  <data key="d8">Good Dude Pet Shop จำหน่ายอาหารเม็ดสุนัขโต PawNature สูตรเนื้อวัว</data>
+  <data key="d9">จำหน่าย</data>
+  <data key="d10">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d11">02_products.md</data>
+  <data key="d12">1791610542</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="อาหารเปียกสุนัขแบบซอง PawNature สูตรไก่ตุ๋น">
+  <data key="d7">1.0</data>
+  <data key="d8">Good Dude Pet Shop จำหน่ายอาหารเปียกสุนัขแบบซอง PawNature สูตรไก่ตุ๋น</data>
+  <data key="d9">จำหน่าย</data>
+  <data key="d10">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d11">02_products.md</data>
+  <data key="d12">1791610542</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="อาหารเม็ดแมวโต Whisker Joy สูตรปลาทูน่า">
+  <data key="d7">1.0</data>
+  <data key="d8">Good Dude Pet Shop จำหน่ายอาหารเม็ดแมวโต Whisker Joy สูตรปลาทูน่า</data>
+  <data key="d9">จำหน่าย</data>
+  <data key="d10">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d11">02_products.md</data>
+  <data key="d12">1791610542</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="อาหารเม็ดลูกแมว Whisker Joy Kitten สูตรไก่">
+  <data key="d7">1.0</data>
+  <data key="d8">Good Dude Pet Shop จำหน่ายอาหารเม็ดลูกแมว Whisker Joy Kitten สูตรไก่</data>
+  <data key="d9">จำหน่าย</data>
+  <data key="d10">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d11">02_products.md</data>
+  <data key="d12">1791610542</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="อาหารเปียกแมวแบบซอง Whisker Joy สูตรปลาทะเล">
+  <data key="d7">1.0</data>
+  <data key="d8">Good Dude Pet Shop จำหน่ายอาหารเปียกแมวแบบซอง Whisker Joy สูตรปลาทะเล</data>
+  <data key="d9">จำหน่าย</data>
+  <data key="d10">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d11">02_products.md</data>
+  <data key="d12">1791610542</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="ขนมขัดฟันสุนัข Dental Stick">
+  <data key="d7">1.0</data>
+  <data key="d8">Good Dude Pet Shop จำหน่ายขนมขัดฟันสุนัข Dental Stick</data>
+  <data key="d9">จำหน่าย</data>
+  <data key="d10">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d11">02_products.md</data>
+  <data key="d12">1791610542</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="ทรายแมวเต้าหู้ ธรรมชาติ">
+  <data key="d7">1.0</data>
+  <data key="d8">Good Dude Pet Shop จำหน่ายทรายแมวเต้าหู้ ธรรมชาติ</data>
+  <data key="d9">จำหน่าย</data>
+  <data key="d10">doc-ed3d016893eea051d2e7571ecfae7e2b-chunk-000</data>
+  <data key="d11">02_products.md</data>
+  <data key="d12">1791610542</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="Good Dude Club">
+  <data key="d7">1.0</data>
+  <data key="d8">Good Dude Club เป็นโปรแกรมสมาชิกของร้าน Good Dude Pet Shop ที่ให้แก่ลูกค้า</data>
+  <data key="d9">มี</data>
+  <data key="d10">doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000</data>
+  <data key="d11">05_faq.md</data>
+  <data key="d12">1791610549</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="PawNature Puppy">
+  <data key="d7">1.0</data>
+  <data key="d8">Good Dude Pet Shop มีจำหน่ายอาหารสำหรับลูกสุนัขสูตรแซลมอน</data>
+  <data key="d9">มีจำหน่าย</data>
+  <data key="d10">doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000</data>
+  <data key="d11">05_faq.md</data>
+  <data key="d12">1791610549</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="Whisker Joy Kitten">
+  <data key="d7">1.0</data>
+  <data key="d8">Good Dude Pet Shop มีจำหน่ายอาหารสำหรับลูกแมวสูตรไก่</data>
+  <data key="d9">มีจำหน่าย</data>
+  <data key="d10">doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000</data>
+  <data key="d11">05_faq.md</data>
+  <data key="d12">1791610549</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="ทรายเบนทอไนต์">
+  <data key="d7">1.0</data>
+  <data key="d8">Good Dude Pet Shop มีจำหน่ายทรายเบนทอไนต์สำหรับกรองขนสัตว์</data>
+  <data key="d9">มีจำหน่าย</data>
+  <data key="d10">doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000</data>
+  <data key="d11">05_faq.md</data>
+  <data key="d12">1791610549</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="อาหารเปียกแมว">
+  <data key="d7">1.0</data>
+  <data key="d8">Good Dude Pet Shop มีจำหน่ายอาหารเปียกแมวในราคาพิเศษ</data>
+  <data key="d9">มีจำหน่าย</data>
+  <data key="d10">doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000</data>
+  <data key="d11">05_faq.md</data>
+  <data key="d12">1791610549</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="อาหารและขนม">
+  <data key="d7">1.0</data>
+  <data key="d8">Good Dude Pet Shop มีนโยบายคืนสินค้าเกี่ยวกับอาหารและขนมที่มีตำหนิ</data>
+  <data key="d9">มีนโยบายคืน</data>
+  <data key="d10">doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000</data>
+  <data key="d11">05_faq.md</data>
+  <data key="d12">1791610549</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="เงินสด">
+  <data key="d7">1.0</data>
+  <data key="d8">Good Dude Pet Shop รับชำระเงินด้วยเงินสด</data>
+  <data key="d9">รับชำระเงินด้วย</data>
+  <data key="d10">doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000</data>
+  <data key="d11">05_faq.md</data>
+  <data key="d12">1791610549</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="โอนพร้อมเพย์">
+  <data key="d7">1.0</data>
+  <data key="d8">Good Dude Pet Shop รับชำระเงินโดยการโอนพร้อมเพย์</data>
+  <data key="d9">รับชำระเงินด้วย</data>
+  <data key="d10">doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000</data>
+  <data key="d11">05_faq.md</data>
+  <data key="d12">1791610549</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="LINE">
+  <data key="d7">1.0</data>
+  <data key="d8">ลูกค้าสามารถใช้ LINE ติดต่อร้าน Good Dude Pet Shop</data>
+  <data key="d9">ใช้ติดต่อ</data>
+  <data key="d10">doc-eea9a72a9ef57d8960588bd442a9c2e8-chunk-000</data>
+  <data key="d11">05_faq.md</data>
+  <data key="d12">1791610549</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="นโยบายการคืนสินค้าและคืนเงิน">
+  <data key="d7">1.0</data>
+  <data key="d8">ร้านมีนโยบายการคืนสินค้าที่ลูกค้าสามารถยื่นคำขอภายในระยะเวลาที่กำหนด</data>
+  <data key="d9">อธิบาย</data>
+  <data key="d10">doc-2c7013c02a298465570d3ccc3888971d-chunk-000</data>
+  <data key="d11">04_policies.md</data>
+  <data key="d12">1791610551</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="ลูกค้า">
+  <data key="d7">1.0</data>
+  <data key="d8">ลูกค้าทำการซื้อสินค้าจากร้าน Good Dude Pet Shop</data>
+  <data key="d9">ซื้อสินค้า</data>
+  <data key="d10">doc-2c7013c02a298465570d3ccc3888971d-chunk-000</data>
+  <data key="d11">04_policies.md</data>
+  <data key="d12">1791610551</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="สมาชิกและโปรโมชัน (Good Dude Club)">
+  <data key="d7">1.0</data>
+  <data key="d8">ร้านมีโปรแกรมสำหรับสมาชิกเพื่อเก็บคะแนนและแลกส่วนลด</data>
+  <data key="d9">เสนอ</data>
+  <data key="d10">doc-2c7013c02a298465570d3ccc3888971d-chunk-000</data>
+  <data key="d11">04_policies.md</data>
+  <data key="d12">1791610551</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="แชมพู">
+  <data key="d7">1.0</data>
+  <data key="d8">ร้านมีแชมพูสำหรับสัตว์เลี้ยงจำหน่ายให้กับลูกค้า</data>
+  <data key="d9">มีสินค้า</data>
+  <data key="d10">doc-2c7013c02a298465570d3ccc3888971d-chunk-000</data>
+  <data key="d11">04_policies.md</data>
+  <data key="d12">1791610551</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="ที่นอน">
+  <data key="d7">1.0</data>
+  <data key="d8">ร้านมีที่นอนสำหรับสัตว์เลี้ยงที่ลูกค้าสามารถซื้อได้</data>
+  <data key="d9">มีสินค้า</data>
+  <data key="d10">doc-2c7013c02a298465570d3ccc3888971d-chunk-000</data>
+  <data key="d11">04_policies.md</data>
+  <data key="d12">1791610551</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="กรงเดินทาง">
+  <data key="d7">1.0</data>
+  <data key="d8">ร้านมีกรงเดินทางสำหรับสัตว์เลี้ยงขายให้กับลูกค้า</data>
+  <data key="d9">มีสินค้า</data>
+  <data key="d10">doc-2c7013c02a298465570d3ccc3888971d-chunk-000</data>
+  <data key="d11">04_policies.md</data>
+  <data key="d12">1791610551</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="น้ำพุ">
+  <data key="d7">1.0</data>
+  <data key="d8">ร้านมีน้ำพุสำหรับสัตว์เลี้ยงให้เลือกซื้อ</data>
+  <data key="d9">มีสินค้า</data>
+  <data key="d10">doc-2c7013c02a298465570d3ccc3888971d-chunk-000</data>
+  <data key="d11">04_policies.md</data>
+  <data key="d12">1791610551</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Good Dude Pet Shop" target="ชามอาหาร">
+  <data key="d7">1.0</data>
+  <data key="d8">ร้านมีชามอาหารสำหรับสัตว์เลี้ยงขาย</data>
+  <data key="d9">มีสินค้า</data>
+  <data key="d10">doc-2c7013c02a298465570d3ccc3888971d-chunk-000</data>
+  <data key="d11">04_policies.md</data>
+  <data key="d12">1791610551</data>
+  <data key="d13"></data>
+</edge>
+<edge source="PawNature" target="ลูกสัตว์">
+  <data key="d7">1.0</data>
+  <data key="d8">PawNature ผลิตอาหารที่เหมาะสำหรับลูกสัตว์อายุต่ำกว่า 1 ปี</data>
+  <data key="d9">ผลิต,พัฒนา</data>
+  <data key="d10">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000</data>
+  <data key="d11">03_product_guide.md</data>
+  <data key="d12">1791610534</data>
+  <data key="d13"></data>
+</edge>
+<edge source="PawNature" target="สูตรแซลมอน">
+  <data key="d7">1.0</data>
+  <data key="d8">PawNature ผลิตอาหารสูตรแซลมอนสำหรับสุนัข</data>
+  <data key="d9">ผลิต,พัฒนา</data>
+  <data key="d10">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000</data>
+  <data key="d11">03_product_guide.md</data>
+  <data key="d12">1791610534</data>
+  <data key="d13"></data>
+</edge>
+<edge source="PawNature" target="สูตรไก่">
+  <data key="d7">1.0</data>
+  <data key="d8">PawNature ผลิตอาหารสูตรไก่สำหรับสุนัข</data>
+  <data key="d9">ผลิต,พัฒนา</data>
+  <data key="d10">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000</data>
+  <data key="d11">03_product_guide.md</data>
+  <data key="d12">1791610534</data>
+  <data key="d13"></data>
+</edge>
+<edge source="PawNature" target="สูตรเนื้อวัว">
+  <data key="d7">1.0</data>
+  <data key="d8">PawNature ผลิตอาหารสูตรเนื้อวัวสำหรับสุนัข</data>
+  <data key="d9">ผลิต,พัฒนา</data>
+  <data key="d10">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000</data>
+  <data key="d11">03_product_guide.md</data>
+  <data key="d12">1791610534</data>
+  <data key="d13"></data>
+</edge>
+<edge source="PawNature" target="Mini Bite">
+  <data key="d7">1.0</data>
+  <data key="d8">PawNature ผลิตอาหาร Mini Bite สำหรับสุนัขพันธุ์เล็ก</data>
+  <data key="d9">ผลิต,พัฒนา</data>
+  <data key="d10">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000</data>
+  <data key="d11">03_product_guide.md</data>
+  <data key="d12">1791610534</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Whisker Joy" target="ลูกสัตว์">
+  <data key="d7">1.0</data>
+  <data key="d8">Whisker Joy ผลิตอาหารที่เหมาะสำหรับลูกสัตว์อายุต่ำกว่า 1 ปี</data>
+  <data key="d9">ผลิต,พัฒนา</data>
+  <data key="d10">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000</data>
+  <data key="d11">03_product_guide.md</data>
+  <data key="d12">1791610534</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Whisker Joy" target="สูตรทูน่า">
+  <data key="d7">1.0</data>
+  <data key="d8">Whisker Joy ผลิตอาหารสูตรทูน่าสำหรับแมว</data>
+  <data key="d9">ผลิต,พัฒนา</data>
+  <data key="d10">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000</data>
+  <data key="d11">03_product_guide.md</data>
+  <data key="d12">1791610534</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Whisker Joy" target="สูตรแซลมอนแมว">
+  <data key="d7">1.0</data>
+  <data key="d8">Whisker Joy ผลิตอาหารสูตรแซลมอนสำหรับแมว</data>
+  <data key="d9">ผลิต,พัฒนา</data>
+  <data key="d10">doc-0a357a5fc21e6f290f89ccb625d69281-chunk-000</data>
+  <data key="d11">03_product_guide.md</data>
+  <data key="d12">1791610534</data>
+  <data key="d13"></data>
+</edge>
+<edge source="พนักงาน" target="สินค้ามีตำหนิ">
+  <data key="d7">1.0</data>
+  <data key="d8">พนักงานเป็นผู้อนุมัติการรับเรื่องสินค้ามีตำหนิภายในระยะเวลาที่กำหนด</data>
+  <data key="d9">รับเรื่อง,อนุมัติ</data>
+  <data key="d10">doc-2c7013c02a298465570d3ccc3888971d-chunk-001</data>
+  <data key="d11">04_policies.md</data>
+  <data key="d12">1791610551</data>
+  <data key="d13"></data>
+</edge>
+<edge source="พนักงาน" target="ใบเสร็จ">
+  <data key="d7">1.0</data>
+  <data key="d8">พนักงานตรวจสอบใบเสร็จเพื่ออนุมัติการคืนสินค้าภายใน 7 วัน</data>
+  <data key="d9">ตรวจสอบ,อนุมัติ</data>
+  <data key="d10">doc-2c7013c02a298465570d3ccc3888971d-chunk-001</data>
+  <data key="d11">04_policies.md</data>
+  <data key="d12">1791610551</data>
+  <data key="d13"></data>
+</edge>
+<edge source="ลูกค้า" target="สินค้ามีตำหนิ">
+  <data key="d7">1.0</data>
+  <data key="d8">ลูกค้าสามารถแจ้งคืนสินค้าที่มีตำหนิภายในระยะเวลาที่กำหนด</data>
+  <data key="d9">แจ้งคืน</data>
+  <data key="d10">doc-2c7013c02a298465570d3ccc3888971d-chunk-000</data>
+  <data key="d11">04_policies.md</data>
+  <data key="d12">1791610551</data>
+  <data key="d13"></data>
+</edge>
+<edge source="ลูกค้า" target="ช่องทางการติดต่อ (LINE)">
+  <data key="d7">1.0</data>
+  <data key="d8">ลูกค้าติดต่อร้านผ่านทาง LINE เพื่อสอบถามและขอคืนสินค้าบ้างครั้ง</data>
+  <data key="d9">ใช้บริการ</data>
+  <data key="d10">doc-2c7013c02a298465570d3ccc3888971d-chunk-000</data>
+  <data key="d11">04_policies.md</data>
+  <data key="d12">1791610551</data>
+  <data key="d13"></data>
+</edge>
+<edge source="หัวข้อสินค้ามีตำหนิ" target="ร้าน">
+  <data key="d7">1.0</data>
+  <data key="d8">ร้านมีนโยบายเกี่ยวกับการคืนสินค้าที่มีตำหนิ</data>
+  <data key="d9">นโยบาย,รับผิดชอบ</data>
+  <data key="d10">doc-2c7013c02a298465570d3ccc3888971d-chunk-001</data>
+  <data key="d11">04_policies.md</data>
+  <data key="d12">1791610551</data>
+  <data key="d13"></data>
+</edge>
+<edge source="ร้าน" target="สลิปโอนเงิน">
+  <data key="d7">1.0</data>
+  <data key="d8">ร้านต้องตรวจสอบยอดเงินจากสลิปโอนเงินก่อนที่จะยืนยันการทำธุรกรรม</data>
+  <data key="d9">ตรวจสอบ,ยืนยัน</data>
+  <data key="d10">doc-2c7013c02a298465570d3ccc3888971d-chunk-001</data>
+  <data key="d11">04_policies.md</data>
+  <data key="d12">1791610551</data>
+  <data key="d13"></data>
+</edge>
+<edge source="ร้าน" target="ฉลาก ป้ายราคา หรือรูปสินค้า">
+  <data key="d7">1.0</data>
+  <data key="d8">ร้านต้องเปรียบเทียบข้อมูลจากฉลาก ป้ายราคา หรือรูปสินค้ากับรายการสินค้าของร้าน</data>
+  <data key="d9">เปรียบเทียบ,แจ้ง</data>
+  <data key="d10">doc-2c7013c02a298465570d3ccc3888971d-chunk-001</data>
+  <data key="d11">04_policies.md</data>
+  <data key="d12">1791610551</data>
+  <data key="d13"></data>
+</edge>
+</graph></graphml>
